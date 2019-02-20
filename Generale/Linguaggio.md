@@ -1,5 +1,5 @@
 # Linguaggio  
-1. [Mosconi](#partemosconi)  
+1. [Mosconi](#Mosconi)  
     1.1 [Psicologia e Retorica](#c1)  
     1.2 [Discorso Dimostrativo](#c2)  
     1.3 [Discorso Persuasivo](#c3)  
@@ -9,14 +9,14 @@
     1.7 [Battuta di Spirito](#c7)  
     1.8 [Figura di una Figura](#c8)  
     1.9 [Metafora](#c9)  
-2. [Legrenzi](#partelegrenzi)  
+2. [Levinson](#Levinson)  
     
     
 
 
 
-<a name="partemosconi"></a>  
-## Mosconi 
+<a name="Mosconi"></a>  
+# Mosconi 
 
 <a name="c1"></a>  
 ### Psicologia e Retorica - Capitolo primo 
@@ -141,7 +141,7 @@ Fungono da
 
 **La contestazione** di un discorso avviene generalmente prendendolo di per sé, ma *ogni discorso o pensiero è la risposta a qualcos'altro*  
 
-<a name="c5"><\a>  
+<a name="c5"></a>  
 ### Il Discorso Vacuo - Capitolo Quinto 
 
 Autorevolezza della fonte ed esotericità del linguaggio sono i presupposti per l'accettazione non controllata di discorsi  
@@ -232,6 +232,173 @@ Inoltre, le figure retoriche sono propriamente un *modo di pensare*, intrinsecam
 ### La Metafora - Capitolo 9
 La metafora non è una sostituzione di parole, ma un più complesso mettere in relazione il termine sostituito con il *veicolo* della metafora  
 
+
+<a name="Levinson"></a>  
+# Levinson - L'implicatura conversazionale  
+
+L'implicatura è l'esempio paradigmatico di come e quanto la pragmatica possa spiegare i fenomeni linguistici  
+
+Permette di comprendere come sia possibile intendere più di quanto si dice effettivamente  
+
+Se considerassimo la variazione di significato di alcune parole dal punto di vista semantico, dovremmo supporre che esse possiedano o più significati o che siano interpretabili a seconda del contesto, ma con l'implicatura la spiegazione diventa più semplice  
+
+<a name="Grice"></a>  
+### Grice  
+
+Le implicature *si differenziano dalle implicazioni logiche perché* sono inferenze costruite **non solo** partendo dal significato semantico della frase, **ma anche** sulla base di massime conversazionali sottese  
+
+Queste massime sono riassumibili nel **principio di cooperazione** secondo il quale ogni persona sa che in una conversazione ci sia aspetta che lei:  
+
+> Fornisca il proprio contributo così come è richiesto, al momento opportuno, dagli scopi o dall'orientamento del discorso in cui è impegnata  
+
+Il principio di cooperazione è scindibile in 4 massime:  
+
+- Massima di Qualità  
+    Fornite solo informazioni che **credete vere** e di cui avete prove
+
+- Massima di Quantità  
+    Non fornite più o meno informazioni di **quanto sia necessario** per gli scopi del discorso  
+
+- Massima di Relazione  
+    Fate contributi **pertinenti**  
+
+- Massima di Modo  
+    Siate perspicui, ovvero
+    1. Evitate oscurità e ambiguità
+    2. Siate brevi  
+    3. Seguite l'ordine del discorso  
+
+Queste massime ovviamente non sono rispettate sempre, ma anche sono informative anche quando violate.  
+L'apparente non cooperatività infatti viene **interpretata come cooperazione su un altro livello non esplicito**, come dallo scambio  
+
+> A: Dov'è Carlo?  
+B: C'è una VW gialla davanti a casa di Anna
+
+nel quale è possibile comprendere ciò che intende B **solo presupponendo che stia cooperando**  
+
+Le implicature **vengono apprese** esattamente come ogni altra regola di comportamento, e **vengono utilizzate** anche in altri contesti (esempio dell'officina)  
+
+Ci sono 2 tipi di implicature:  
+
+- Standard
+- Oltraggianti
+
+**Esempi standard**  
+
+- Qualità: domande o dichiarazioni
+- Quantità: asserzioni riguardanti *parti* (la bandiera è bianca, com'è andato il processo)  
+- Relazione: richieste (che ore sono -> è passato il lattaio)
+- Modo: istruzioni (apri la porta)
+
+**Esempi oltraggianti**  
+
+- Qualità: ironia, metafore
+- Quantità: tautologie
+- Relazione: cambi di discorso (come va a scuola)
+- Modo: (La Singer ha emesso suoni...)
+
+**Funzionamento delle implicature**  
+
+1. P dice ***a***
+2. P sta rispettando le massime
+3. Per poter dire ***a***, rispettando le massime, P deve intendere ***b*** 
+4. P sa che (3) è di conoscenza comune
+5. P non ha impedito di pensare ***b***
+6. P vuole che l'interlocutore pensi ***b***
+
+**Caratteristiche delle implicature**  
+
+1. Cancellabilità o Distruttibilità  
+    Come le inferenze induttive, e differentemente dalle deduttive, il significato delle implicature muta aggiungendo elementi alla frase o modificandone il contesto  
+
+2. Non-distaccabilità  
+    Le implicature non mutano quando si cambia la forma sintattica, a differenza di altre implicazioni pragmatiche come la *presupposizione*  
+
+3. Calcolabilità  
+    È sempre possibile esplicitare l'implicatura  
+
+4. Non convenzionalità  
+    Le implicature non fanno parte del significato linguistico delle proposizioni
+
+
+<a name="Corollari"></a>  
+## Corollari  
+
+<a name="Identificazione"></a>  
+### Identificazione delle implicature  
+
+Sembra che non sempre le implicature posseggano tutte e 4 le loro caratteristiche  
+
+Bisogna quindi pensare che le caratteristiche siano *prerequisiti*?  
+**Non abbiamo ancora gli elementi per definire precisamente le implicature**, il che sospende anche le tesi secondo le quali non sono falsificabili, e sarebbero quindi prive di significato  
+
+Le implicature si leggono a livello della **rappresentazione semantica**, con alcuni dati riguardanti la **forma logica**  
+
+Infatti diverse strutture superficiali potrebbero reggere le stesse implicature.  
+
+<a name="Implicature-Input"></a>  
+### Input semantico e Tipologia delle implicature   
+
+Esistono altri tipologie di implicature oltre a quelle conversazionali, come quella convenzionale, con caratteristiche opposte alle prime, che si trova per esempio nei titoli e nelle espressioni onorifiche.  
+
+Esistono anche altri principi (informatività, cortesia) che generano implicature che possono contrastare fra di loro, va ancora studiato  
+
+<a name="Implicature-Qualità"></a>  
+### Analisi dettagliata implicature di Qualità  
+
+Le implicature di qualità possono semplificare fortemente le spiegazioni semantiche e logiche delle proposizioni, attraverso l'uso delle implicature:  
+
+- Conversazionali
+- Scalari
+- Propositive  
+
+<a name="Relazioni"></a>  
+### Relazioni tra implicature e struttura della lingua  
+
+Le implicature sono essenziali in ogni teoria che voglia spiegare le espressioni linguistiche, e ne modifica la struttura sintattica attraverso delle restrizioni, che poi sono principi pragmatici  
+
+<a name="Psicolinguistica"></a>  
+# Psicolinguistica  
+
+Nasce dagli studi di **Wundt**, lo studia fisiologicamente e cognitivamente, e ne conviene che va studiato **cognitivamente**  
+
+**Buhler** teorizza un modello funzionale, che comprende *espressione, evocazione e rappresentazione*, tesi ad esprimere i processi interni di chi parla e a rievocarli nell'ascoltatore.  
+La funzione rappresentativa permette di connettere simboli a oggetti reali  
+
+Da **Watson** in poi, vengono studiate solo le risposte comportamentali, ovvero *serie meccaniche di risposte condizionate*  
+
+La **linguistica contemporanea** è caratterizzata da 3 stadi  
+
+1. Precognitivo: fiducia nella metodologia della linguistica dello strutturalismo, della teoria dell'informazione e dell'apprensimento  
+
+2. Chomskiano: tentativo di costruire modelli basati sulla grammatica generativo-trasformazionale di Chomsky (problemi sintattici)  
+
+3. Semantico-Pragmatico, modelli psicolinguisti più autonomi  
+
+I **settori di indagine**  
+
+- Comprensione
+- Produzione
+- Sviluppo
+- Patologia
+
+Focus su *comprensione*  
+
+1. Riconoscimento di parole
+2. Comprensione di frasi
+3. Comprensione di testi
+
+<a name="LinguisticaDescrittiva"></a>  
+### Linguistica Descrittiva  
+
+**Livello Fonetico**  
+
+- i **foni** sono i diversi suoni emessi (augh) 
+- I **fonemi** sono le minime unità di espressione verbale (n) 
+- I **morfemi** sono le minime unità dotate di significato proprio (can) 
+
+<a name="GrammaticaChomsky"></a>  
+### Grammatica Generativo-Trasformazionale  
 
 
 
