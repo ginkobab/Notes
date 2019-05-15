@@ -353,3 +353,107 @@ Problemi:
 
 Vengono ipotizzate diverse rappresentazioni mentali che tengono separate spese diverse e le valutano individualmente  
 
+## Categorizzazione  
+
+**Formazione**  
+
+**Funzione**  
+
+1. Economia Cognitiva
+2. Inferenze
+
+*Esperimento corvo, pipistrello e fenicottero*  
+
+**La teoria classica**  
+
+- Intensione vs Estensione dei concetti
+- Formazione per condivisione di attributi (Hull, Bruner)
+
+*Problemi*:  
+
+> Estrema definizione -> Poco realistica  
+Nessuna distinzione tra categorie naturali e artificiali (autoformate e artificiose)  
+
+> **Wittgennstein** ritiene che le categorie si formino per *somiglianza di famiglia*, ovvero insiemi di fattori che si sovrappongono  
+
+**Critiche formali**  alla teoria classica  
+
+1. Non tiene conto della possibilità che cambino le caratteristiche costitutive degli esemplari (tigre erbivora o senza gambe, è ancora una tigre?)
+2. Non permette di discernere tra categorie vuote coerenti (unicorno) e non
+3. Non tiene conto della discordanza entro e tra i soggetti nella categorizzazione e ricategorizzazione
+4. Pollo più simile alla categoria più lontana (animale) che alla sovraordinata (uccello) 
+5. Tipicità 
+
+**La teoria del prototipo** 
+
+Grado di tipicità = Livello di somiglianza ad un prototipo *reale* (Rosch) o *astratto* (Smith, Shoben e Rips)  
+
+Prove empiriche (maggiore velocità nella categorizzazione e nell'inferenza quando si usano esemplari più tipici)  
+
+Livelli:  
+
+- Sovraordinato
+- Base (maggiore diversificazione)
+- Subordinato  
+
+La massima *cue validity* è nelle categorie base, perché nelle sovraordinate c'è più intersezione e nelle subordinate meno differenziazione  
+
+**Critiche**  
+Non è presente il concetto di *somiglianza funzionale*, ovvero di somiglianza non percettiva ma relativa agli attributi funzionali propri delle categorie sovraordinate di appartenenza  
+
+Inoltre considerare come prototipo l'*esemplare medio* risulta controverso, per esempio nella c. sovraordinata 'mobili'  
+
+*È necessaria un ripensamento del concetto di somiglianza*  
+
+**Rosch, Simpson e Miller** sostengono che ci sia una gerarchia di attributi dai quali si inferisce somiglianza o dissomiglianza *ma* per fare ciò bisognerebbe avere una previa categorizzazione. (Per me può essere un processo graduale)  
+
+Un altro punto critico è l'esistenza di categorie di oggetti orientati ad un fine, dove è inesistente somiglianza tra i membri (regali adatti ad un compleanno)  
+
+Esperimento di Rips - Monete e pizza di diametro 7.5cm  
+
+Viene rilevata la dualità di alcuni concetti (numeri dispari) che sembrano essere definiti in maniera non prototipica ma manifestano tempi di reazione differenti in base alla grandezza (Secondo me perché ci metti più tempo ad elaborare numeri più grandi, per difficoltà computazionali e per inferiore disponibilità)  
+
+Quindi viene definito:  
+
+- *Core* come cuore concettuale della categoria
+- *Prototipo* come elementi percettivi salienti per l'identificazione
+
+Il Core si differenzia dalla definizione classica di descrizione perché è **mutabile**, e serve a *stabilizzare* i concetti ancorandoli oltre alla dimensione percettiva  
+
+**Le teorie ingenue**  
+Murphy e Medin ipotizzano che le categorie siano *"teorie"* che le persone si costruiscono per raggruppare determinati eventi attraverso relazioni causali tra insiemi di attributi.  
+
+La premessa filosofica di questa ipotesi è la teoria della spiegazione di Putnam, secondo la quale i concetti non *descrivono*, ma sono "*teorie*", che non necessitano della conoscenza né della parola né dell'oggetto alla quale si riferiscono  
+
+I concetti si dividono in diverse tipologie:  
+
+- Naturali  
+    Cercano di descrivere la natura ultima delle cose, adattandosi alla scienza
+- Nominali  
+    Vengono utilizzati in maniera attributiva, convenzionale
+- Artefatti  
+    Sono una via di mezzo
+
+Persone con diversi livelli di conoscenza modificano le loro categorie di conseguenza.  
+
+**Nakamura** effettua esperimenti per provare la tesi che *fornendo spiegazioni causali gli individui apprendono più facilmente nuove categorie*  
+
+La nozione di somiglianza di per sé non ha capacità esplicative, ma è soltanto un **effetto**  
+
+Per **Medin e Ortony** gli attributi più accessibili sono i primi ad essere acquisiti, ma essendo inestricabilmente legati a quelli genetici e profondi non avviene contrasto  
+
+Per **Quine** c'è una progressione tra categorizzazione basata su somiglianza e basata su teorie  
+
+**Carey** fa esperimenti sui bambini (scimmia vera e giocattolo) che lo portano alla conclusione che anche loro utilizzino teorie prototipiche con core legati alla biologia  
+
+\* *altre teorie che ignoreremo* *  
+
+**Modello funzionalista di Barslou**  
+
+Le categorie sono **instabili** e definite in base alla *funzione*, relativa al contesto, anziché alla *struttura* del concetto di riferimento
+
+Inoltre le strutture con gradazione non riflettono le variazioni, perché queste possono essere determinate da differenze culturali  
+
+Il modello descrive la categorizzazione come un processo che utilizza le conoscenze interrelate e continue della memoria a lungo termine per costruire e elaborare i concetti nella memoria di lavoro.  
+Sulla base di ciò la mdl costruisce concetti in relazione ai contesti, concetti a loro volta immagazzinati in mlt.  
+
