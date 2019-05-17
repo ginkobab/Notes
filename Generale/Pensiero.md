@@ -281,6 +281,7 @@ D) 100% - 5$
 Ti vengono dati 1000$, scegli:  
 
 a. 50% di vincere altri 1000$  
+
 b. 100% di vincere altri 500$  
 
 - Problema 4
@@ -288,6 +289,7 @@ b. 100% di vincere altri 500$
 Ti vengono dati 2000$, scegli:
 
 c. 50% di perdere 1000$  
+
 d. 100% di perdere 500$
 
 **Sunk Costs**  
