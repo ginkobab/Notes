@@ -211,8 +211,9 @@ Tversky - Esperimento ABCDE e Accessori macchine
 
 Lichtenstein e Slovic - Esperimento scommesse:  
 
-> 99% vinci 4$ | 1% perdi 1$  
-33% vinci 16$ | 67% perdi 2$  
+| 99% vinci 4$ | 1% perdi 1$ |
+| ------------ | ----------- |
+| 33% vinci 16$ | 67% perdi 2$ |  
 
 I soggetti preferiscono la scommessa sicura tra le due  
 
@@ -664,9 +665,4 @@ La rappresentazione del compito avviene trasformando la *task environment* nel *
 3. Interazione con i limiti della memoria di lavoro
 
 
-| Something | Something else  |
-| --------- | --------------  |
-| title     | still something |
-| more      | stuff  |
-| a very very lot more      | stuff  |
 
