@@ -1,4 +1,4 @@
-# Riassunti libri Generale 2
+# Pensiero
 ## La probabilità - Psicologia del Pensiero
 
 1. **Bayes**  
@@ -353,7 +353,7 @@ Problemi:
 
 Vengono ipotizzate diverse rappresentazioni mentali che tengono separate spese diverse e le valutano individualmente  
 
-## Categorizzazione  
+## Categorizzazione  - Psicologia del Pensiero
 
 **Formazione**  
 
@@ -456,4 +456,217 @@ Inoltre le strutture con gradazione non riflettono le variazioni, perché queste
 
 Il modello descrive la categorizzazione come un processo che utilizza le conoscenze interrelate e continue della memoria a lungo termine per costruire e elaborare i concetti nella memoria di lavoro.  
 Sulla base di ciò la mdl costruisce concetti in relazione ai contesti, concetti a loro volta immagazzinati in mlt.  
+
+## Problem Solving - Pensiero + Mosconi  
+
+**Simon** Labirinto = Problem solving  
+
+Distinzione tra ***compito*** (cannibali e missionari) e ***problema***  (4 palline e bilancia, compravendita del cavallo, ristorante, 9 punti)  
+
+Nei problemi il soggetto contribuisce alla creazione del problema *accettando* il discorso come un *buon* discorso  
+
+C'è differenza nelle reazioni dei soggetti in caso di fallimento, quando viene loro rivelata la soluzione 
+
+Il *Problem Solving* sono i tentativi del soggetto di risolvere i problemi  
+
+Nei compiti questo inizia nel momento in cui problema e soggetto si incontrano  
+
+Nei problemi bisogna considerare la *costituzione* del problema  
+
+Nella teoria dominante:  
+
+- Non c'è distinzione tra problema e compito
+- Viene data più importanza ai compiti
+- Non viene considerata la costituzione
+- Non vengono considerati i processi che portano al fallimento
+
+Fasi del problema:  
+
+- Messaggio dato
+- Decodifica  
+    - Codice legale  
+        - Soluzione
+    - Codice naturale  
+        - Contraddizione
+        - Ricodifica
+
+Il problema nasce da un'***asimmetria tra la codifica e la decodifica***  
+La soluzione si può ottenere solo **cambiando codice**  
+
+A volte i problemi sono composti, e sono composti anche da una parte di *compito*, detta *residuo del problema*  
+
+Inoltre anche i compiti possono diventare problemi in modo utile (Giovane Gauss) o inutile (quando si cerca di risolvere le cose in modo "intelligente")  
+
+Nell'autoposizione del problema non c'è *doppio codice*, ovvero si passa da linguaggio naturale a legale autonomamente.  
+
+*In natura non ci sono problemi*, essi sono solo nella nostra mente.  
+
+
+**Rapporto tra parola e pensiero**  
+
+Differenza tra messaggio dato e messaggio effettivo, attraverso la decodificazione primaria  
+
+**Problemi di Luria e Cvetkova**  
+
+Problemi sottoposti a pazienti con lesioni cerebrali  
+
+- Bambino ha 12 mele, ne regala e gliene restano 8, quante ne ha regalate?  
+    È un *problema semplice invertito*
+
+**Mosconi** sottopone gli stessi problemi a bambini.  
+
+**La tesi** è che la difficoltà vari in base alla struttura retorica  
+
+Problema come discorso costituito da due parti:  
+
+- Enunciato
+- Domanda
+
+La domanda corrisponde al focus  
+
+I residui narrativi interferiscono:  
+*Ne ha regalate alcune ad un amico* non fornisce dati  
+
+Dal punto di vista **retorico**, l'inserimento di informazioni non rilevanti è una *violazione* delle regole implicite della retorica  
+
+Può avvenire quindi un fenomeno analogo alla *iperregolarizzazione* dei verbi, che porta i soggetti a *riempire* la proposizione vuota, confondendola con la successiva (ne ha regalate 8 ad un amico).  
+
+Nel caso dei bambini molti evitano il problema, di quelli che lo provano il 40% fallisce nel modo previsto  
+
+Solo 1/4 del 60% dei risolutori ha risolto il problema al primo tentativo, sempre per la motivazione sopra esposta.  
+
+Ad altri soggetti è stato presentato il compito di *ripetizione* del problema e invenzione di uno analogo, e hanno presentato quasi tutto lo slittamento  
+
+Si trovano conferme dei protocolli di Luria  
+
+**Le versioni pseduo-parallele**  
+
+**Differenziazione sintattica**  
+*Un bambino aveva 12 mele. Dopo averne regalate alcune a un amico, gliene restano 8. Quante ne ha regalate?*  
+
+75% soluzioni corrette.  
+
+**Differenziazione topologica**  
+*Un bambino ha regalato a un amico alcune delle sue mele. Aveva 12 mele. Gliene restano 8. Quante ne ha regalate?*  
+
+80% soluzioni corrette.  
+Solo 10% evitano il problema contro il 20% degli altri casi  
+
+Secondo Luria la difficoltà sta nella **Massima differenza dallo schema abituale**
+*Quante mele ha regalato al suo amico un bambino che ne aveva 12 e gliene restano 8?*  
+
+90% risposte corrette.  
+
+**Secondo problema**: *Pietro ha 4 mele e Paolo 2 in più. Quante ne hanno in tutto?*  
+
+La caratteristica importante è che è impossibile risolverlo con un solo atto  
+
+20% risposte corrette.  
+
+Fallimenti dovuti a incapacità di comprendere *"2 in più"*  
+
+**Versione semplificata**  
+*Pietro ha 4 mele e Paolo 2 in più. Quante ne ha Paolo?*  
+
+70% di risposte corrette.  
+
+Ipotesi esclusa.  
+Forse la differenza dipende dal grado di complessità.  
+
+
+**Versione Pseudo-parallela**  
+*Pietro ha 4 mele e Paolo 4 + 2. Quante ne hanno in tutto?*    
+
+73% di risposte corrette.  
+
+Ipotesi esclusa.
+
+Il motivo della difficoltà è nella focalizzazione ellittica, che fa sì che il problema secondario passi in secondo piano e venga semplificato, inoltre il "di più" suggerisce erroneamente ai soggetti di sommare i due addendi
+
+**Versione Pseudo-parallela 2**  
+*Pietro ha 4 mele e Paolo ne ha* **quante** *Pietro e 2 di più. Quante ne hanno in tutto?*  
+
+70% risposte corrette.  
+
+**Le Ragioni del discorso**  
+
+Problema delle 3 scatole con 2 palline  
+
+15% risposte corrette.  
+25% risposte corrette dopo suggerimento.  
+
+La struttura del discorso-problema (enunciato e domanda) e la struttura del discorso-soluzione (centrazione e sviluppo) sono differente:  
+Nella prima si parla solo di palline, nella seconda sono centrali le etichette.  
+
+Ciò è provato dal fatto che cambiando il testo (ci sono 3 scatole, una con l'etichetta con scritto ecc...) i risultati sono i seguenti:  
+
+60% risposte corrette.  
+
+Se oltre all'enunciato si cambia la richiesta le risposte corrette arrivano a 75%  
+
+**Il discorso tende però ad assumere naturalmente la prima organizzazione** quando per esempio viene chiesto di descrivere ai soggetti il processo di preparazione dell'esperimento.  
+
+**L'ordine**  
+
+Viene percepito come uno stato superiore e conclusivo.  
+
+Secondo Wertheimer l'ordine corrisponde alla soluzione, ma questo non sempre è vero.  
+
+Esperimento della foglia e del lago  
+Esperimento dei 24 panini  
+
+Si cerca l'ordine, ma non solo percettivamente, bensì all'interno dei processi di pensiero.  
+Ciò fa sì che si perda il riferimento temporale in determinati casi (
+"un panino a testa" che può diventare "uno al giorno" e poi tornare ad essere "uno a testa")
+
+**Il discorso del non solutore**  
+
+Secondo alcuni autori  
+
+> *il soggetto scompone il problema in problemi semplici e li risolve parallelamente, andando per tentativi*, **accumulando** *così sempre più informazioni*  
+
+Secondo altri autori  
+
+> *La soluzione si ottiene attraverso una* **riorganizzazione**, *e nonostante questa si presenti come all'improvviso, in realtà è il risultato di una linea coerente di pensiero*  
+
+Tutti questi autori studiano i **solutori**, dimenticando che in ogni problema c'è sempre una difficoltà, ovvero *insuccessi almeno temporanei*  
+
+Per studiare i non solutori verranno utilizzati protocolli  
+
+**Problema delle 3 scatole - Protocolli**  
+
+- I non solutori iniziano sempre con un tentativo casuale, un *"andare a vedere"* incongruo con la necessità del problema di inferire implicitamente il contenuto delle scatole.  
+- I soggetti non riescono ad effettuare inferenze oltre a quelle direttamente conseguenti dall'azione appena effettuata  
+- La comparsa di **discorsi vacui** può essere indice di non soluzione  
+- A volte i soggetti *rovesciano* la situazione trattando le etichette come ignote e le palline come note, vanificando la struttura del problema, ovvero rendendo tutto noto, non avendo così più nulla da risolvere.  
+- Si trovano inoltre incoerenze nell'applicazione di informazioni utili suggerite, come l'uso corretto delle etichette nel primo caso ma l'incapacità di farlo in altri (Secondo me limiti della memoria di lavoro, che portano ad inadatta semplificazione del concetto)
+
+**Ristrutturazione e Processo** - **Wertheimer e Duncker**  
+
+I problemi  
+
+- Di Wertheimer: Cosa succede nel momento in cui il pensiero diventa produttivo?
+- Di Duncker: Cosa porta il pensiero ad essere produttivo?
+
+Wertheimer è spesso frainteso nel suo riferirsi ai processi di pensiero come *sequela di tentativi*.  
+Per lui infatti significa semplicemente **atto di pensiero intelligente**  
+
+Dunker costruisce *alberi genealogici* delle soluzioni, raccogliendo da uno o più protocolli le proposte di soluzione (Problema della cura del tumore attraverso irradiazione)  
+
+Inoltre Wertheimer non tiene neanche i protocolli (Mosconi vuole dire che Duncker è più simpatico)  
+
+Anche secondo Simon e Newell Duncker è figo, infatti tutta la loro human information processing è ~~una copia spudorata~~ tratta dal suo pensiero  
+
+La rappresentazione del compito avviene trasformando la *task environment* nel *problem space* personale attraverso 3 filtri:  
+
+1. Definizione delle norme legali
+2. Definizione dell'obiettivo
+3. Interazione con i limiti della memoria di lavoro
+
+
+| Something | Something else  |
+| --------- | --------------  |
+| title     | still something |
+| more      | stuff  |
+| a very very lot more      | stuff  |
 
