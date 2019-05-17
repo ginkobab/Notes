@@ -46,7 +46,7 @@ Informazione specifica (*likelihood*): probabilità relativa ad un sottogruppo
     La spiegazione è che all'informazione di frequenza non viene attribuita causalità  
     Versione causale, dove non c'è frequenza dei taxi ma frequenza dei taxi coinvolti in incidenti (incompetenza autisti)  
 
-- Suicidi
+- Suicidi  
     80/20 sposati/single  
     suicidi 3 volte maggiori tra i single  
     Probabilità suicida di essere single  
@@ -168,7 +168,7 @@ Quest'ipotesi è comprovata da Polizer e Noveck e da Mosconi e Macchi
 - Secondo Tversky e Kahneman  
     Procedimenti semplificati *che obbediscono a meccanismi loro propri* portando ad errori 
 
-**Spiegazioni Errori  
+**Spiegazioni Errori**  
 
 - Secondo Tversky e Kahneman  
     **Causalità**  
@@ -280,14 +280,14 @@ D) 100% - 5$
 
 Ti vengono dati 1000$, scegli:  
 
-A) 50% di vincere altri 1000$
+A) 50% di vincere altri 1000$  
 B) 100% di vincere altri 500$  
 
 - Problema 4
 
 Ti vengono dati 2000$, scegli:
 
-C) 50% di perdere 1000$
+C) 50% di perdere 1000$  
 D) 100% di perdere 500$
 
 **Sunk Costs**  
