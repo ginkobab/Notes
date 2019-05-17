@@ -280,15 +280,15 @@ D) 100% - 5$
 
 Ti vengono dati 1000$, scegli:  
 
-A) 50% di vincere altri 1000$  
-B) 100% di vincere altri 500$  
+A. 50% di vincere altri 1000$  
+B. 100% di vincere altri 500$  
 
 - Problema 4
 
 Ti vengono dati 2000$, scegli:
 
-C) 50% di perdere 1000$  
-D) 100% di perdere 500$
+C. 50% di perdere 1000$  
+D. 100% di perdere 500$
 
 **Sunk Costs**  
 
