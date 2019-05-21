@@ -64,7 +64,7 @@ La teoria è corroborata dagli errori sistematici (Nella mano non c'è un due, e
 ## La probabilità - Psicologia del Pensiero
 
 
-1. Legge dei grandi numeri - *Gambler fallacy* o *legge dei piccoli numeri*
+#### Legge dei grandi numeri - *Gambler fallacy* o *legge dei piccoli numeri*
 
 **Twersky & Kahneman**
 
@@ -73,7 +73,7 @@ La teoria è corroborata dagli errori sistematici (Nella mano non c'è un due, e
 
 > La Gambler fallacy potrebbe quindi essere legata alla considerazione di lanci come un insieme di eventi legati, *e che la nostra idea di caso si basi su una sorta di regolarità compensatoria*  
 
-2. La fallacia della Probabilità condizionale - joint probability fallacy  
+#### La fallacia della Probabilità condizionale - joint probability fallacy  
 
 > Esperimento 3 scatole  
 I soggetti non si rendono conto che l'apertura della prima scatola **non è casuale** bensí condizionata, perché applicano:  
@@ -83,7 +83,7 @@ I soggetti non si rendono conto che l'apertura della prima scatola **non è casu
 
 Macchi e Girotto hanno modificato la presentazione dell'esperimento esprimendo la condizionalità dell'apertura di B (luci rosse o verdi), ottenendo la risposta corretta dalla maggioranza dei soggetti  
 
-3. La fallacia della probabilità di base - base-rate fallacy
+#### La fallacia della probabilità di base - base-rate fallacy
 
 **Tversky e Kahneman**  
 
@@ -171,7 +171,7 @@ La formulazione partitiva ha il triplice effetto di:
 
 Ogni esperimento riformulato per qualche motivazione viene a dare risultati positivi solo e solo se viene riformulato (anche se incidentalmente) in termini partitivi.  
 
-4. **La sovrastima delle proprie risposte**  
+#### **La sovrastima delle proprie risposte**  
 
 Le persone hanno una percezione esagerata delle proprie risposte corrette in compiti come di cultura generale o previsione di eventi.  
 
@@ -204,7 +204,7 @@ Secondo **May**, i test utilizzati non sono rappresentativi, perché generano *o
 Secondo il PMM i soggetti hanno dei modelli mentali legati tra loro attraverso probabilità.  
 Inoltre per rispondere alla domanda *"A quante di queste domande pensi di aver risposto correttamente"* si attiva un modello differente da quello attivo per ogni singola risposta, rendendo **inutile la domanda,** o meglio facendo sì che questa misuri un altro costrutto.  
 
-5. **Fallacia dell'intersezione**  - **Conjunction fallacy**  
+#### **Fallacia dell'intersezione**  - **Conjunction fallacy**  
 
 Esperimento di Linda  
 
