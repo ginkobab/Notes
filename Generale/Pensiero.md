@@ -1,9 +1,70 @@
 # Pensiero
+## Il ragionamento deduttivo  
+
+**Modus Ponens**  
+
+> Se P, allora Q  
+P  
+-> Q  
+
+**Modus Tollens**  
+
+> Se P, allora Q  
+non-Q  
+-> non-P  
+
+**Fallacia della negazione dell'antecedente**  
+
+> Se P, allora Q  
+non-P  
+-> non-Q  
+
+**Fallacia dell'affermazione della conseguente**  
+
+> Se P, allora Q  
+Q  
+-> P  
+
+**La Logica Mentale**  
+Postula che gli individui posseggano schemi logici innati  
+
+Non spiega:  
+
+1. Gli errori sistematici
+2. Gli effetti del contenuto (cane pulci) e inferenze parassite (Paolo spuntino cena)  
+
+Cerca infatti di spiegare gli errori nel *modus tollens* sostenendo che non ci sia un modello per risolverli   
+
+
+**La Teoria dei Modelli Mentali** - Johnson-Laird
+Postula che le inferenze siano tratte sulla base della manipolazione di rappresentazioni mentali, ed è un processo **semantico**  
+
+Le rappresentazioni sono *economiche* e tendono a trascurare le contingenze *false*  (rappresentiamo solo Asso - 2)  
+
+| 1o | 2o | Valore |
+| -- | -- | ------ |
+| Asso | 2 | Vero |
+| Asso | Non-2 | Falso |
+| Non-Asso | 2 | Vero |
+| Non-Asso | non-2 | Vero |
+
+La teoria è corroborata dagli errori sistematici (Nella mano non c'è un due, erroneamente nulla ne consegue), da esperimenti sul cambio della posizione della premessa non-Q nel *modus tollens* e dagli *enunciati controfattuali* (Se Paolo fosse andato a Padova, Maria sarebbe andata a Brescia), attraverso i quali è più facile risolvere il *modus tollens*  
+
+**Confronto tra i modelli**  
+
+> *Se nella mano c'è un Asso, allora c'è un 2*  
+*Se nella mano c'è un Re, allora c'è un 2* (fenomeno non-consequenziale)  
+
+> Modelli relazionali: Posizioni di A B C D E, carte con 7 3 * $, diventano più difficili **non quando ci sono premesse irrilevanti ma quando vengono attivati più modelli**  
+
+
+
+
+
 ## La probabilità - Psicologia del Pensiero
 
-1. **Bayes**  
 
-2. Legge dei grandi numeri - *Gambler fallacy* o *legge dei piccoli numeri*
+1. Legge dei grandi numeri - *Gambler fallacy* o *legge dei piccoli numeri*
 
 **Twersky & Kahneman**
 
@@ -12,7 +73,7 @@
 
 > La Gambler fallacy potrebbe quindi essere legata alla considerazione di lanci come un insieme di eventi legati, *e che la nostra idea di caso si basi su una sorta di regolarità compensatoria*  
 
-3. Probabilità condizionale  
+2. La fallacia della Probabilità condizionale - joint probability fallacy  
 
 > Esperimento 3 scatole  
 I soggetti non si rendono conto che l'apertura della prima scatola **non è casuale** bensí condizionata, perché applicano:  
@@ -22,7 +83,7 @@ I soggetti non si rendono conto che l'apertura della prima scatola **non è casu
 
 Macchi e Girotto hanno modificato la presentazione dell'esperimento esprimendo la condizionalità dell'apertura di B (luci rosse o verdi), ottenendo la risposta corretta dalla maggioranza dei soggetti  
 
-4. La fallacia della probabilità di base - base-rate fallacy
+3. La fallacia della probabilità di base - base-rate fallacy
 
 **Tversky e Kahneman**  
 
@@ -110,7 +171,7 @@ La formulazione partitiva ha il triplice effetto di:
 
 Ogni esperimento riformulato per qualche motivazione viene a dare risultati positivi solo e solo se viene riformulato (anche se incidentalmente) in termini partitivi.  
 
-**La sovrastima delle proprie risposte**  
+4. **La sovrastima delle proprie risposte**  
 
 Le persone hanno una percezione esagerata delle proprie risposte corrette in compiti come di cultura generale o previsione di eventi.  
 
@@ -143,7 +204,7 @@ Secondo **May**, i test utilizzati non sono rappresentativi, perché generano *o
 Secondo il PMM i soggetti hanno dei modelli mentali legati tra loro attraverso probabilità.  
 Inoltre per rispondere alla domanda *"A quante di queste domande pensi di aver risposto correttamente"* si attiva un modello differente da quello attivo per ogni singola risposta, rendendo **inutile la domanda,** o meglio facendo sì che questa misuri un altro costrutto.  
 
-**Fallacia dell'intersezione**  - **Conjunction fallacy**  
+5. **Fallacia dell'intersezione**  - **Conjunction fallacy**  
 
 Esperimento di Linda  
 
@@ -643,6 +704,7 @@ Per studiare i non solutori verranno utilizzati protocolli
 - Si trovano inoltre incoerenze nell'applicazione di informazioni utili suggerite, come l'uso corretto delle etichette nel primo caso ma l'incapacità di farlo in altri (Secondo me limiti della memoria di lavoro, che portano ad inadatta semplificazione del concetto)
 
 **Ristrutturazione e Processo** - **Wertheimer e Duncker**  
+*o "una gigantesca leccata di culo a Dunky Dunk"*
 
 I problemi  
 
@@ -663,6 +725,14 @@ La rappresentazione del compito avviene trasformando la *task environment* nel *
 1. Definizione delle norme legali
 2. Definizione dell'obiettivo
 3. Interazione con i limiti della memoria di lavoro
+
+Ricapitolando:  
+
+| Wertheimer | **ristrutturallista** |
+| ---------- | --------------------- |
+| Duncker | media tra le due |
+| HIPT | **processista** |  
+
 
 
 
