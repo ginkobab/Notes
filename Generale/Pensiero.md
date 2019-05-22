@@ -1,5 +1,5 @@
 # Pensiero
-## Il ragionamento deduttivo  
+## Il ragionamento deduttivo  - Psicologia del Pensiero
 
 **Modus Ponens**  
 
@@ -57,6 +57,55 @@ La teoria è corroborata dagli errori sistematici (Nella mano non c'è un due, e
 
 > Modelli relazionali: Posizioni di A B C D E, carte con 7 3 * $, diventano più difficili **non quando ci sono premesse irrilevanti ma quando vengono attivati più modelli**  
 
+## Il controllo delle ipotesi - Manuale  
+
+**Wason**  
+
+> *Se una carta ha una vocale da una parte, allora ha un numero pari dall'altra*  
+E K 4 7  
+
+Crede di trovare *predisposizione alla verifica* o *commissione*, ovvero il controllo di *q* (4) e *mancanza di falsificazione* (non controllano 7)
+
+**Wason e Shapiro**  
+
+> *Ogni volta che vado a Manchester, viaggio in treno*  
+
+Secondo Wason e Johnson-Laird i risultati sono migliori a causa della storia  
+
+**Johnson-Laird, Legrenzi e Sonino**  
+
+> *Se una lettera è chiusa, allora ha un francobollo da 50 lire*  
+Busta chiusa, busta aperta, francobollo da 50 lire, francobollo da 40 lire  
+
+Dovrebbe confermare l'ipotesi precedente  
+
+**D'Urso e Mosconi**  
+Sostengono cambi il messaggio effettivo  
+
+> Cambiano *non-q* con francobollo da 100 lire anziché 40  
+
+> *Se una lettera è aperta, allora ha un francobollo da 40 lire*  
+Ottengono aberrazioni logiche  
+
+**Tesi di Mosconi**  
+I soggetti non compiono errori, fanno solo ciò che il *messaggio effettivo* del problema gli comunica di fare  
+
+> Esperimento di controllo:  
+Carta da girare per seguire l'ipotesi e carta per non seguirla  
+
+Quasi tutti i soggetti scelgono non-q per la falsificazione
+
+**Evans**  
+Vuole dimostrare che il *verification bias* è in realtà *matching bias* (i soggetti scelgono i valori nominati nella richiesta)  
+
+Secondo Evans ce la fa, a me non sembra  
+Dopo tot esperimenti di controllo, si conclude che funziona solo quando il valore tematico del materiale è basso.  
+
+La facilitazione data dal materiale tematico non sussiste a meno che non ci sia *memory-cueing*, o imbeccata mnemonica.  
+
+**Cheng e Holyoak**  
+Criticano queste ipotesi  
+Secondo loro le persone ragionano attraverso strutture di conoscenza indotte dalla vita reale detti **schemi pragmatici di ragionamento**, come permesso, obbligo e causalità. 
 
 
 
@@ -64,7 +113,7 @@ La teoria è corroborata dagli errori sistematici (Nella mano non c'è un due, e
 ## La probabilità - Psicologia del Pensiero
 
 
-### Legge dei grandi numeri - *Gambler fallacy* o *legge dei piccoli numeri*
+### Legge dei grandi numeri - Gambler fallacy o legge dei piccoli numeri
 
 **Twersky & Kahneman**
 
