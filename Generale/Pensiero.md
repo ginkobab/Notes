@@ -171,7 +171,10 @@ Risultati:
 - Una parte consistente dei soggetti segue le ipotesi alla lettera
 - Vien evocato un diverso presupposto  
 
+In generale:  
 
+La conclusione viene accettata nonostante l'antecedente da quasi tutti, attivando diversi e contrastanti presupposti.  
+Ci sono critiche sui collegamenti tra antecedente e presupposti, tra antecedente e conclusione, correzioni dell'antecedente, correzioni della conclusione, utilizzo di presupposti differenti.
 
 
 ## La probabilità - Psicologia del Pensiero
