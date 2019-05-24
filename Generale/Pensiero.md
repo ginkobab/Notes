@@ -105,7 +105,71 @@ La facilitazione data dal materiale tematico non sussiste a meno che non ci sia 
 
 **Cheng e Holyoak**  
 Criticano queste ipotesi  
-Secondo loro le persone ragionano attraverso strutture di conoscenza indotte dalla vita reale detti **schemi pragmatici di ragionamento**, come permesso, obbligo e causalità. 
+Secondo loro le persone ragionano attraverso strutture di conoscenza indotte dalla vita reale detti **schemi pragmatici di ragionamento**, come permesso, obbligo e causalità.  
+
+> Riproducendo l'esperimento delle carte attivando uno schema di permesso si ottengono molte più risposte corrette
+
+**Jackson e Griggs**  
+La facilitazione non è data dall'attivazione di schemi pragmatici di ragionamento ma da esposizioni più chiare  
+
+> Riproducono esperimenti astratti utilizzando negative esplicite e implicite e un contesto di controllo in cui fanno immaginare di essere autorità che devono controllare (evocano schemi di permesso), e pare che le prime producano la facilitazione
+
+**Girotto, Mazzocco e Cherubini**  
+Mostrano che si può ottenere facilitazione anche senza l'uso di negazioni esplicite
+
+Inoltre **Cheng e Holyoak** trovarono che non c'è facilitazione con negative esplicite senza schemi di permesso  
+
+**Cosmides**  
+La teoria del contratto sociale postula che i meccanismi innati della mente umana sono utili a risolvere problemi simili a quelli proposti dall'ambiente fisico in termini evolutivi.  
+Insomma è una spiegazione per la teoria pragmatica  
+
+## Compito di selezione - Mosconi  
+
+Aggiusta l'esperimento di Wason cambiando da *regola* a *ipotesi* ed esplicitando la necessità di verificare/confutare l'ipotesi.  
+
+Nel secondo esperimento divide i due compiti di verifica e falsificazione  
+
+## Presupposti e Implicazioni - Mosconi C. 14 
+
+Esiste un discorso profondo caratterizzato dalla consapevolezza comune dei luoghi comuni, accettati e implicitamente riprodotti da **chi produce il discorso**  
+
+- I presupposti fanno parte del discorso, supportoano e connettono gli elementi emergenti
+- I presupposti mangengono indeterminatezza e sono rappresentabili da un *magma* di idee
+- I presupposti normalmente agiscono inavvertitamente
+
+**Esperimenti**  
+*Dal momento che molti studenti sono interessati a superare comunque gli esami piuttosto che alla serietà degli studi,  
+le autorità accademiche ***non*** devono prendere in considerazione le proposte di rinnovamento didattico che vengono dagli studenti*  
+
+Testo A con il *non*, testo B senza  
+
+
+**Testo A**
+
+Ipotesi:
+
+- Gli studenti che non sono d'accordo con il messaggio dovrebbero *criticare le conclusioni*, siccome i presupposti dovrebber oagire inavvertitamente
+- Pochi criticheranno i presupposti, alcuni ne attiveranno altri per contrastare i primi
+
+Risultati:  
+
+- 1/3 dei soggetti critica la premessa (non vera, generalizzante o non falsificabile), intervenendo quindi sul discorso esplicito e non toccando i presupposti
+- Una piccola parte attacca il legame tra presupposti e antecedente(gli studenti si comportano così per condizioni sociali ecc.), quindi pur mantenendo l'antecedente spezzano la connessione tra questa e le conclusioni
+- Nessuno attacca i presupposti direttamente  
+
+**Testo B**
+
+Ipotesi:  
+
+- È un discorso artificioso,dovrebbe quindi generare controversie.
+- I soggetti svilupperanno il nesso *dal momento che*, in modo da sopperire alle sue debolezze
+- Pochi soggetti accetteranno il testo senza critiche
+- Almeno in alcuni il presupposto evocato sarà quello del testo A
+
+Risultati:  
+
+- Una parte consistente dei soggetti segue le ipotesi alla lettera
+- Vien evocato un diverso presupposto  
 
 
 
