@@ -1,6 +1,6 @@
 # Linguaggio  
 1. [Mosconi](#partemosconi)  
-    1.1 [Psicologia e Retorica](#c1)
+    1.1 [Psicologia e Retorica](#c1)  
     1.2 [Discorso Dimostrativo](#c2)
 
 ## Mosconi <a name="partemosconi"></a>
