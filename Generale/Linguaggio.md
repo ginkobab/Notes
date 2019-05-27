@@ -3,6 +3,7 @@
     1.1 [Psicologia e Retorica](#c1)  
     1.2 [Discorso Dimostrativo](#c2)  
     1.3 [Discorso Persuasivo](#c3)  
+    1.4 [Presupposizione e Contestabilità](#c4)  
 
 
 ## Mosconi <a name="partemosconi"></a>
@@ -66,10 +67,31 @@ Vengono somministrate le due diverse versioni per diverse prove:
 Nel testo di Euclide i primi punti, di costruzione e di identità dei triangolo, acquistano un **rilievo eccessivo**  
 
 **Spunti**  
-
 Bisognerebbe quindi modificare il nostro modo di insegnare la matematica, o questo modo aiuta a sviluppare capacità utili?  
 
 ### Il Discorso Persuasivo e lo Studio del Pensiero - Capitolo Terzo <a name="c3"></a>  
+
+La persuasione è stata studiata **in passato**, a partire da Hovland, nella ricerca della migliore organizzazione del discorso tale da produrre una modifica nell'opinione dell'ascoltatore  
+
+La **prospettiva di Mosconi** è di studiarla come il tentativo di portare il pensiero dell'ascoltatore dal punto A a quello B, producendo così l'equivalente della situazione di Problem Solving, ovvero una situazione dove c'è un ostacolo che il soggetto può superare solo con mezzi intellettuali.  
+
+Nella **prospettiva del doppio codice** il persuasore si propone di far leggere in modo diverso i dati in possesso dell'interlocutore, o aggiungendone altri o modificando le loro connessioni con le conclusioni o le premesse, effettuando di fatto un *cambio di codice*  
+
+Il problema è interamente **determinato**, a diversi livelli di realtà, (oggettiva o rappresentazione di questa da parte del persuasore) sia ipotizzando di conoscere ogni variabile della situazione, sia osservando il solo discorso del persuasore  
+
+Inoltre **lo studio dei processi di pensiero** nella produzione di discorso persuasivo è facilitato, in quanto il pensiero si identifica proprio nel discorso, dunque non è necessario produrre altro materiale, anche perché *non siamo interessati ad altro che al processo che porta ad A e B, dunque il resto della mente del persuasore, che non viene esplicitato verbalmente, non è di nostro interesse*  
+
+### Presupposizione e Contestabilità del Discorso - Capitolo Quarto <a name="c4"></a>  
+
+**Le forme proverbiali** rivelano la preoccupazione di *capire*, non solo per agire, ma proprio per esigenze psicologiche  
+Ciò è dimostrato anche dalla forma sintattica, infatti l'imperativo viene usato nell'ambito di conoscenze pratiche quali il lavoro nei campi, mentre per le conoscenze generali viene usata la forma dichiarativa  
+
+L'uomo comune tenta quindi di comprendere, ma i presupposti della sua comprensione (i proverbi o senso comune) sono contraddittori, il che pone spesso le persone nella situazione del **non so che cosa pensare**, ovvero situazioni che *non è possibile risolvere con il ragionamento*  
+
+In queste situazioni si è costretti a **decidere** (dal latino tagliare), cosa psicologicamente molto costosa: *per gli esseri umani la condizione di non sapere se si è fatto bene o male, e di non sapere cosa si dovrà fare, è insostenibile*  
+
+
+
 
 
 
