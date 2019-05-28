@@ -4,6 +4,10 @@
     1.2 [Discorso Dimostrativo](#c2)  
     1.3 [Discorso Persuasivo](#c3)  
     1.4 [Presupposizione e Contestabilità](#c4)  
+    1.5 [Discorso Vacuo](#c5)  
+    1.6 [Forme Congiuntive e Filo](#c6)  
+
+
 
 
 ## Mosconi <a name="partemosconi"></a>
@@ -89,6 +93,96 @@ Ciò è dimostrato anche dalla forma sintattica, infatti l'imperativo viene usat
 L'uomo comune tenta quindi di comprendere, ma i presupposti della sua comprensione (i proverbi o senso comune) sono contraddittori, il che pone spesso le persone nella situazione del **non so che cosa pensare**, ovvero situazioni che *non è possibile risolvere con il ragionamento*  
 
 In queste situazioni si è costretti a **decidere** (dal latino tagliare), cosa psicologicamente molto costosa: *per gli esseri umani la condizione di non sapere se si è fatto bene o male, e di non sapere cosa si dovrà fare, è insostenibile*  
+
+**Esempio dei Dobu e degli Zuñi**  
+1. Per un Dobu (conflittuali) sarebbe incredibilmente difficile **pensare e persuadere** i suoi compatrioti di idee contrastanti con la loro cultura.  
+
+
+2. Mentre per un Dobu-Zuñi sarebbe più facile, ma la difficoltà sarebbe la **disomogeneità e l'incoerenza** dei suoi ascoltatori: *esiste in quella cultura di ogni discorso il contrario di sé stesso, attivando i presupposti opposti*  
+
+3. Nella realtà il contatto tra culture diverse produce effetti non prevedibili e continui di contrasto e assimilazione dei presupposti, che producono un continuum di diverse interpretazioni  
+
+Nel terzo stadio esiste la possibilità di **non accorgersi di contraddirsi**, e di *dire tutto e il contrario di tutto nello stesso discorso*, mentre nello stadio 2 ciò sarebbe stato possibile solo in discorsi diversi e alternativi, **permettendo così a volte di pensare qualcosa che altrimenti non sarebbe pensabile**  
+
+Inoltre esiste la possibilità di creare **discorsi vacui**, nei quali qualunque tipo di modifica interna non va a modificare la percezione di validità del discorso  
+
+**I Presupposti**  
+
+Fungono da 
+
+- Fondamento del discorso
+- Connettivo tra parti del discorso
+- Agiscono senza la consapevolezza dei membri del discorso  
+- Sono costituiti da idee funzionalmente corrispondenti 
+- Permettono che siano discorsi accettabili sia "A implica B" che "A implica non B"
+- Costituiscono il *complesso cognitivo*, diverso dal *sistema cognitivo*
+- Determinano la ribaltabilità e quindi la contestabilità dei discorsi
+
+**Esperimento degli studenti**  
+
+**Prima versione**  
+
+- Attaccano l'antecedente  
+    - Negandone la verità
+    - Criticandone l'inadeguatezza formale  
+
+- Rompendo il legame tra antecedente e presupposto (sostituendolo)
+- Rompendo il legame tra conclusione e presupposto (possono fare lo stesso proposte interessanti)  
+
+**La contestazione** di un discorso avviene generalmente prendendolo di per sé, ma *ogni discorso o pensiero è la risposta a qualcos'altro*  
+
+### Il Discorso Vacuo - Capitolo Quinto <a name="c5"><\a>  
+
+Autorevolezza della fonte ed esotericità del linguaggio sono i presupposti per l'accettazione non controllata di discorsi  
+
+È difficile definire un **limite** tra discorso vacuo e non, essendo che i soggetti per definizione vengono illusi  
+
+Viene quindi ideato un **esperimento** per accertare l'esistenza del discorso vacuo:  
+
+> Una giuria valuta *vacuo* un testo di critica d'arte.  
+Viene creata una seconda versione del testo *slittando* 20 degli 80 sostantivi  
+Vengono presentati ai soggetti chiedendo sintesi e frasi molto o poco significative  
+**Le reazioni registrate sono omogenee**  
+
+Inoltre i **soggetti con difficoltà** le attribuiscono a circostanze esterne  
+
+Viene ripetuto l'esperimento con un altro discorso vacuo, trovando gli stessi risultati, e viene controllato con discorsi normali, che i soggetti hanno invece rifiutato da slittati  
+
+Un'altra caratteristica dei discorsi vacui è la **trasferibilità dell'argomento**, per esempio nel primo testo sono stati sostituiti i vocaboli più legati all'arte con altri legati alla politica, rilevando sempre accettazione da parte dei soggetti  
+
+**Condizioni di accettabilità dei discorsi**  
+
+- Grammaticalità
+- Autorevolezza della fonte (per denominazione o stile)
+- Rievocazione di schemi o luoghi comuni (illusione di capire)
+
+### Forme Congiuntive e Filo del Discorso - Capitolo Sesto <a name="c6"></a>  
+
+La forma congiuntiva, ovvero il legame tra parti del discorso (e, ma, anche se, perché, ecc.) modifica la percezione del discorso  
+
+Ciò è dimostrato dalla percentuale di risposte positive alla domanda *"Vorresti avere un amico fedele* **anche se** *invadente?"*  
+Facendo variare la forma congiuntiva con *e* o *ma* si ottengono percentuali significativamente diverse  
+
+**Esperimento**  
+Per studiare la forma congiuntiva sono stati utilizzati due testi (vela e lago)  
+
+**Le richieste** erano  
+
+- Riassunto
+- Cosa ne pensi
+- Giudicala come se fossi un prof
+
+Veniva valutato solo se il soggetto percepisse **sconnesso** oppure no il testo  
+
+**Il disegno** era 8 x 1 + il gruppo di controllo  
+
+Le diverse forme congiuntive sono copulative avversative dichiarative e conclusive, presenti in forma forte e debole  
+
+**I risultati** mostrano che ad essere significative, e ad avere maggior effetto, sono **le forme congiuntive deboli** (perché passano inosservate)  
+**Paradossalmente** anche le forme avversative provocano un aumento dell'accettazione  
+
+**Il motivo** per cui le forme congiuntive danno la percezione di unitarietà è perché *sono vissute come segnali di connessione* 
+
 
 
 
