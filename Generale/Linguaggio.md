@@ -6,13 +6,20 @@
     1.4 [Presupposizione e Contestabilità](#c4)  
     1.5 [Discorso Vacuo](#c5)  
     1.6 [Forme Congiuntive e Filo](#c6)  
+    1.7 [Battuta di Spirito](#c7)  
+    1.8 [Figura di una Figura](#c8)  
+    1.9 [Metafora](#c9)  
+2. [Legrenzi](#partelegrenzi)  
+    
+    
 
 
 
+<a name="partemosconi"></a>  
+## Mosconi 
 
-## Mosconi <a name="partemosconi"></a>
-
-### Psicologia e Retorica - Capitolo primo <a name="c1"></a>  
+<a name="c1"></a>  
+### Psicologia e Retorica - Capitolo primo 
 
 **Perché la retorica?**  
 
@@ -43,7 +50,8 @@ L'oggetto di studio è quindi:
 
 Il metodo di studio vuole essere ***indipendente dall'oggettività dell'esperienza***, come la nella Gestalt, dove le leggi della percezione postulate rimangono vere indipendentemente dal fatto che l'oggetto sia reale o illusorio  
 
-### Dimensione Psicoretorica del Discorso Dimostrativo - Capitolo Secondo <a name="c2"></a>  
+<a name="c2"></a>  
+### Dimensione Psicoretorica del Discorso Dimostrativo - Capitolo Secondo 
 
 L'esperimento è la somministrazione di una versione pseudo-parallela della dimostrazione del primo teorema di Euclide  
 
@@ -73,7 +81,8 @@ Nel testo di Euclide i primi punti, di costruzione e di identità dei triangolo,
 **Spunti**  
 Bisognerebbe quindi modificare il nostro modo di insegnare la matematica, o questo modo aiuta a sviluppare capacità utili?  
 
-### Il Discorso Persuasivo e lo Studio del Pensiero - Capitolo Terzo <a name="c3"></a>  
+<a name="c3"></a>  
+### Il Discorso Persuasivo e lo Studio del Pensiero - Capitolo Terzo 
 
 La persuasione è stata studiata **in passato**, a partire da Hovland, nella ricerca della migliore organizzazione del discorso tale da produrre una modifica nell'opinione dell'ascoltatore  
 
@@ -85,7 +94,8 @@ Il problema è interamente **determinato**, a diversi livelli di realtà, (ogget
 
 Inoltre **lo studio dei processi di pensiero** nella produzione di discorso persuasivo è facilitato, in quanto il pensiero si identifica proprio nel discorso, dunque non è necessario produrre altro materiale, anche perché *non siamo interessati ad altro che al processo che porta ad A e B, dunque il resto della mente del persuasore, che non viene esplicitato verbalmente, non è di nostro interesse*  
 
-### Presupposizione e Contestabilità del Discorso - Capitolo Quarto <a name="c4"></a>  
+<a name="c4"></a>  
+### Presupposizione e Contestabilità del Discorso - Capitolo Quarto 
 
 **Le forme proverbiali** rivelano la preoccupazione di *capire*, non solo per agire, ma proprio per esigenze psicologiche  
 Ciò è dimostrato anche dalla forma sintattica, infatti l'imperativo viene usato nell'ambito di conoscenze pratiche quali il lavoro nei campi, mentre per le conoscenze generali viene usata la forma dichiarativa  
@@ -131,7 +141,8 @@ Fungono da
 
 **La contestazione** di un discorso avviene generalmente prendendolo di per sé, ma *ogni discorso o pensiero è la risposta a qualcos'altro*  
 
-### Il Discorso Vacuo - Capitolo Quinto <a name="c5"><\a>  
+<a name="c5"><\a>  
+### Il Discorso Vacuo - Capitolo Quinto 
 
 Autorevolezza della fonte ed esotericità del linguaggio sono i presupposti per l'accettazione non controllata di discorsi  
 
@@ -156,7 +167,8 @@ Un'altra caratteristica dei discorsi vacui è la **trasferibilità dell'argoment
 - Autorevolezza della fonte (per denominazione o stile)
 - Rievocazione di schemi o luoghi comuni (illusione di capire)
 
-### Forme Congiuntive e Filo del Discorso - Capitolo Sesto <a name="c6"></a>  
+<a name="c6"></a>  
+### Forme Congiuntive e Filo del Discorso - Capitolo Sesto 
 
 La forma congiuntiva, ovvero il legame tra parti del discorso (e, ma, anche se, perché, ecc.) modifica la percezione del discorso  
 
@@ -182,6 +194,45 @@ Le diverse forme congiuntive sono copulative avversative dichiarative e conclusi
 **Paradossalmente** anche le forme avversative provocano un aumento dell'accettazione  
 
 **Il motivo** per cui le forme congiuntive danno la percezione di unitarietà è perché *sono vissute come segnali di connessione* 
+
+
+<a name="c7"></a>  
+### La Battuta di Spirito - Capitolo Settimo 
+
+I discorsi **speciali** sono tutti i tipi di discorso che richiedono una particolare chiave di lettura per essere interpretati  
+
+In ogni discorso normale le proposizioni sono in una **rete di relazioni** che viene costruita secondo le regole di *compatibilità e consequenzialità*  
+
+La **battuta di spirito** non sottostà a queste regole, ed è quindi considerata un *discorso assoluto*, in termini logici e parzialmente anche in termini morali  
+
+In termini morali **il limite** è che il discorso stesso venga considerato una battuta  
+
+Secondo Mosconi **la natura della battuta** è quella di *atto conoscitivo*  
+
+**La sorpresa** che produce è prodotta dalla violazione di una o più regole retoriche  
+
+Inoltre un elemento fondamentale della battuta è la **discontinuità**, come si osserva nelle vignette  
+
+Un **esperimento** che convalida questa ipotesi è stato effettuato mostrando ai soggetti la parte scritta iniziale di 2 vignette satiriche e chiedendo di completarle  
+Quasi tutti i soggetti le hanno completate seguendo il filo serioso del testo  
+
+Le battute quindi violano le regole retoriche in varie maniere, e vengono portate ad esempio due storie del Decamerone di Boccaccio, quella dei nobili e quella dei fenicotteri, e la battuta del condannato a morte di Lunedì che dice "Comincia bene la settimana!"  
+Viene mostrato attraverso la battuta "Perché Tizio si comporta così? Perché ragiona sempre in termini *scientifici o personali*", che viola le regole retoriche solo perché è **non informativa**  
+
+<a name="c8"></a>  
+### Sul Linguaggio Figurato: La Figura di una Figura - Capitolo Ottavo 
+
+Ci sono sempre state **controversie** sulla definizione delle figure retoriche  
+L'idea che le figure siano allontanamenti dall'espressione comune o piana è falsificata  
+
+**Secondo Mosconi** il linguaggio figurato è un *ordine secondario* del discorso, che ha bisogno del primo al quale riferirsi (eufemismo, ironia)  
+Inoltre, le figure retoriche sono propriamente un *modo di pensare*, intrinsecamente diverso dal *discorso semplice*, e non sono solo degli abbellimenti  
+
+<a name="c9"></a>  
+### La Metafora - Capitolo 9
+La metafora non è una sostituzione di parole, ma un più complesso mettere in relazione il termine sostituito con il *veicolo* della metafora  
+
+
 
 
 
