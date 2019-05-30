@@ -104,7 +104,7 @@ Filosofia della Scienza
                        - Necessari per spiegazioni causali
 
 
-#Kuhn
+### Kuhn
 
 - “Contro i caratteri dell’impresa scientifica:”
      - :Cumulativo
@@ -119,7 +119,7 @@ Filosofia della Scienza
   - 
 
 
-#Realismo/AntiRealismo
+## Realismo/AntiRealismo
 
 - *Visione*
      - :Epistemologica
@@ -132,7 +132,7 @@ Filosofia della Scienza
                        - Forte/Debole
      - ‘Meta-Induzione Pessimistica’
 
-#Valori 
+## Valori 
 
 - Ripetibilita’
 - Riproducibilita’
@@ -145,7 +145,7 @@ Filosofia della Scienza
 
 
 
-#Filosofia della Psichiatria
+# Filosofia della Psichiatria
 
 -> *Oggetto* di studio
 - *Concetto* di Malattia 
@@ -227,7 +227,7 @@ Filosofia della Scienza
            -  Non tutte le malattie sono disfunzioni
 
 
-#Antipsichiatria
+# Antipsichiatria
 
 -> Critica ai metodi degli ospedali psichiatrici
 -> Legge Basaglia
@@ -265,7 +265,7 @@ Filosofia della Scienza
      - Emarginazione
      - Malattia come peccato
 
-#DSM
+# DSM
 
 - Anni ‘50 — *DSM I*
   - Tramonto della psicanalisi
@@ -309,7 +309,7 @@ Filosofia della Scienza
            - Sta sacrificando validita’ per affidabilita’
      
 
-#Nuove Malattie
+# Nuove Malattie
 
 - Il DWM V ha aggiunto malattie e abbassato i livelli per le diagnosi
      - ‘Critiche ovvie’
@@ -334,8 +334,7 @@ Filosofia della Scienza
      - Nuove categorie nosologiche
 
 
-#Realismo, Antirealismo e Costruttivismo
-
+# Realismo, Antirealismo e Costruttivismo
 -> Costruttivismo 
 - Realista conscio che i termini teorici dipendano
  *anche dalle attivita’ umane e che siano modificati
@@ -351,6 +350,7 @@ Filosofia della Scienza
 - Ma -> *Relativismo storico e culturale*
 - “Looping Effect” -> La classificazione modifica il comportamento
 - Ma -> Cio’ non esclude la possibilita’ di genere naturale
+
 
 - Hacking 
      - dipendenza storico sociale dei disturbi mentali
