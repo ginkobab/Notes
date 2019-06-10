@@ -400,11 +400,195 @@ Focus su *comprensione*
 <a name="GrammaticaChomsky"></a>  
 ### Grammatica Generativo-Trasformazionale  
 
+1. ***Processi Markoviani***
+Grammatica come meccanismo che genera tutte le sequenze grammaticali della lingua e nessuna non della lingua, e a partire da un numero finito di regole e da un vocabolario finito produce infinite nuove frasi.  
+Le frasi sono costruite aggiungendo una parola alla volta in base alle probabilità  
+
+2. Struttura sintagmatica  
+Grammatica definita attraverso  
+
+- vocabolario
+- simboli
+- regole 
+
+Attraverso ciò si derivano delle frasi per sostituzione di vocaboli a simboli (SN, sintagma nominale = Art + N, nella frase "SN + carezza + il + cane" sostituisci "Art + N" a SN e poi "Il Bambino")  
+
+Nelle frasi più complesse servono troppe regole per evitare la creazione di non-frasi, quindi **Chomsky introduce le regole di trasformazione**  
+
+Queste sono le trasformazioni sintattiche che modulano il senso della frase (da attiva a passiva, interrogativa, negativa ecc...)  
+
+Quindi la grammatica è costituita da:  
+
+- Una componente a struttura generativa
+- Una componente trasformazionale 
+(GAN bitch)  
+
+- Una struttura sintattica superficiale e semantica profonda
+- Una distinzione tra *competenza* (potenza) e *esecuzione* (atto)
 
 
+<a name="ComprensioneLinguaggio"></a>  
+### Comprensione del Linguaggio  
+
+- Teoria dei tratti distintivi (in fonologia)
+- Percezione categorica (ba -> da, ka -> k)
+
+1. Problemi riguardanti la struttura del *magazzino* delle parole
+2. Problemi riguardanti il collegamento tra fonemi e parole
+
+**Possibili esperimenti:**  
+
+- Determinazione della *soglia* temporale di  
+    1. Riconoscimento
+    2. Denominazione
+    3. Decisione lessicale  
+
+**Effetti osservati:**  
+
+- Effetto frequenza (disponibilità)
+- Effetto contesto 
+- Superiorità della parola
+
+Le spiegazioni teoriche includono il concetto di **attivazione**, **diffusione di attivazione**  
+
+> **Attivazione**, del sistema di conoscenze che costituisce il lessico mentale, che avviene grazie alla presentazione di una parola.  
+Se consideriamo ili lessico mentale come costituito di unità *parole*, il riconoscimento di una parola esterna avviene quando viene sufficientemente attivata una rappresentazione interna.
+
+> **Diffusione di attivazione**, significa che se si intende la memoria semantica come costituita da un insieme di unità a 2 livelli (semantico e sintattico), e si pensa che le unità costituiscono nodi connessi in una rete, l'attivazione di uno di questo nodi si *diffonde* a quelli vicini (Molto simile alla **rappresentazione distribuzionale** in NLP)  
+
+**Modelli teorizzati:** 
+
+- Modelli ad attivazione
+- Modelli a ricerca
+
+Il Modello del ***logogeno di Morton***  
+
+> Logogeno: Unità del lessico mentale = Parola  
+Risponde a informazione semantica/visiva/uditiva, **raccogliendola** fino a raggiungere la soglia  
+
+Il Modello a ***ricerca attiva di Forster***  
+
+Archivio centrale al quale si accede attraverso archivi periferici (Ortografico/fonologico/sintattico/semantico), ordinati in ordine di frequenza (Please uncle, sit)  
+
+**Riconoscimento di parole nel linguaggio parlato**  
+
+Il modello della ***coorte***  
+
+Si attivano tutte le parole che iniziano con lo stesso segmento acustico  
+
+**Riconoscimento di parole ambigue**  
+
+- Si attivano entrambi i sensi
+- Se ne attiva uno solo in base al contesto
+
+Entrambe in isolamento, nel contesto dipende dall'effetto pre/post lessicale del contesto  
+
+Risulta dagli ultimi esperimenti che vengono attivati entrambi i sensi e il contesto funge poi da filtro  
+
+**La comprensione di frasi**  
+
+- Esperimento dei *clic*  
+
+- Complessità derivazionale (controllando lo span dopo aver processato frasi +- complese)
+
+Criticata perché la complessità covaria con la lunghezza  
+Viene infatti dimostrato che è la lunghezza a determinare difficoltà cognitive  
 
 
+**I modelli paralleli**  
+dagli anni '70 si teorizzano modelli **non più seriali** ma paralleli, nei quali l'elaborazione sintattica e semantica interagiscono  
+
+Esperimenti di *shadowing*, con variazione di parola critica  
+(Viene corretta a meno che non sia sbagliata la prima sillaba o il contesto inadatto)  
+
+I sistemi agiscono separatamente? (no lol)  
+
+- Sausage Machine, Frazier e Fodor  
+
+Preliminary Phrase Package + Sentence Structure Supervisor (gaaaaan)  
+Minimal attachment + Late closure (nacl)  
 
 
+**Le conoscenze contestuali**  
 
+- Esperimento delle tartarughe
+- Contratto *given-new*
+- Inferenze - tempo inferenziale - birra da baule/picnic
 
+**La comprensione dei discorsi**  
+
+- Schemi
+- Script
+- Modello di Thorndyke (trasformazionale)  
+- Modello di Kintch e Van Dijk  
+    Micro/Macro-struttura  
+    Argomento/Proposizione, collegate per generare un *grafo di coerenza*  
+
+<a name="ProduzioneLinguaggio"></a>  
+### La produzione del linguaggio  
+
+**I Lapsus**
+
+- Bersaglio
+- Intruso
+
+Lapsus **contestuali** (intruso dello stesso ambiente semantico) vs non contestuali  
+
+Errori di  
+
+- Anticipazione
+- Perseverazione (contrario di anticipazione)
+- Metatesi (scambio)
+- Malaprosismi (errori fonologici)
+
+Gli errori sono ortogonali, e possono generare inferenze sul funzionamento della produzione linguistica  
+
+**Analisi degli errori**  
+
+*Un tempo di una settimana* (Una settimana di tempo)  
+
+Dal fatto che **un** non sia **una**, inferiamo che:  
+
+1. La struttura sintattica e l'intonazione sono programmati prima degli item lessicali
+2. I formativi grammaticali sono decisi dopo gli item  
+
+Dal fatto che le pause cadano tra un sintagma e l'altro, inferiamo che:  
+
+1. I sintagmi sono unità programmate e eseguite unitariamente
+
+Anche se secondo alcuni esperimenti pare che l'esecuzione parta prima che il sintagma sia stato completamente programmato  
+
+**Modelli di produzione**  
+
+Hanno tutti diverse fasi:  
+
+1. Concettualizzazione
+2. Formulazione
+3. Articolazione
+
+Modello di **Garrett**  
+
+1. Rappresentazione del messaggio
+2. Rappresentazione funzionale
+3. Rappresentazione posizionale
+4. Rappresentazione fonetica
+5. Rappresentazione articolatoria
+
+<a name="SviluppoLinguaggio"></a>  
+### Lo Sviluppo del Linguaggio  
+
+Assunti degli studi passati:  
+
+- Il fanciullo apprende il linguaggio
+- Il fanciullo apprende per imitazione
+- Il linguaggio del fanciullo è lo stesso dell'adulto ma semplificato
+
+Vengono messe in discussione da nuovi assunti:  
+
+- Il bambino possiede una grammatica propria ad ogni stadio
+
+Nel periodo delle frasi a due parole questa grammatica può essere identificata trasformativamente come Perno + parola generica della classe Aperta  
+
+**Fondamenti biologici**  
+
+Li sai bro
