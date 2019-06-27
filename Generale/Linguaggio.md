@@ -17,11 +17,11 @@
     2.5 [Implicature-Qualità](#Implicature-Qualità)  
     2.6 [Relazioni](#Relazioni)  
 3. [Psicolinguistica](#Psicolinguistica)  
-    3.1 [LinguisticaDescrittiva](#LinguisticaDescrittiva)  
-    3.2 [GrammaticaChomsky](#GrammaticaChomsky)  
-    3.3 [ComprensioneLinguaggio](#ComprensioneLinguaggio)  
-    3.4 [ProduzioneLinguaggio](#ProduzioneLinguaggio)  
-    3.5 [SviluppoLinguaggio](#SviluppoLinguaggio)  
+    3.1 [Linguistica Descrittiva](#LinguisticaDescrittiva)  
+    3.2 [Grammatica Chomskiana](#GrammaticaChomsky)  
+    3.3 [Comprensione del Linguaggio](#ComprensioneLinguaggio)  
+    3.4 [Produzione del Linguaggio](#ProduzioneLinguaggio)  
+    3.5 [Sviluppo del Linguaggio](#SviluppoLinguaggio)  
 
 
 <a name="Mosconi"></a>  
@@ -64,13 +64,13 @@ Il metodo di studio vuole essere ***indipendente dall'oggettività dell'esperien
 
 L'esperimento è la somministrazione di una versione pseudo-parallela della dimostrazione del primo teorema di Euclide  
 
-L'ipotesi è che cambiando solo la presentazione del materiale, e non il materiale stesso, **se c'è variazione nella comprensione allora ili discorso dimostrativo è da considerare appartenente alla dimensione retorica**  
+L'ipotesi è che cambiando solo la presentazione del materiale, e non il materiale stesso, **se c'è variazione nella comprensione allora il discorso dimostrativo è da considerare appartenente alla dimensione retorica**  
 
 L'obiettivo è quindi dimostrare che **ogni discorso ha una componente retorica**  
 
 Ciò era stato negato prima da Platone e poi da Aristotele, che aveva sostenuto che ad ogni livello di conoscenza prodotta (certa o verosimile) corrispondeva un diverso tipo di discorso (dimostrativo e persuasivo)  
 
-Invece le strutture del discorso, come quella del monologo (*exordium narration confirmatio/refutatio conclusio*) sono comuni alle impostazioni discorsive di ogni disciplina (perché basate sulle necessità psicologiche)  
+Invece le strutture del discorso, come quella del monologo (*exordium narratio confirmatio/refutatio conclusio*) sono comuni alle impostazioni discorsive di ogni disciplina (perché basate sulle necessità psicologiche)  
 
 **Esperimento**  
 
@@ -78,7 +78,7 @@ La dimostrazione matematica non anticipa nulla e non si dice nulla che non sia d
 
 Nella dimostrazione di Mosconi si dà prima l'informazione del rapporto tra i triangoli e il rettangolo e il quadrato, poi si motiva attraverso la congruenza dei triangoli e della continuità delle rette. (Si risponde alle domande dopo che queste sono sorte, anziché prima)  
 
-Si utilizzando subito le *figure focus*, ovvero quelle sulle quali è incentrata la dimostrazione  
+Si utilizzano subito le *figure focus*, ovvero quelle sulle quali è incentrata la dimostrazione  
 
 Vengono somministrate le due diverse versioni per diverse prove:  
 
@@ -95,7 +95,7 @@ Bisognerebbe quindi modificare il nostro modo di insegnare la matematica, o ques
 
 La persuasione è stata studiata **in passato**, a partire da Hovland, nella ricerca della migliore organizzazione del discorso tale da produrre una modifica nell'opinione dell'ascoltatore  
 
-La **prospettiva di Mosconi** è di studiarla come il tentativo di portare il pensiero dell'ascoltatore dal punto A a quello B, producendo così l'equivalente della situazione di Problem Solving, ovvero una situazione dove c'è un ostacolo che il soggetto può superare solo con mezzi intellettuali.  
+La **prospettiva di Mosconi** è di studiare  come il tentativo di portare il pensiero dell'ascoltatore dal punto A a quello B, producendo così l'equivalente della situazione di Problem Solving, ovvero una situazione dove c'è un ostacolo che il soggetto può superare solo con mezzi intellettuali.  
 
 Nella **prospettiva del doppio codice** il persuasore si propone di far leggere in modo diverso i dati in possesso dell'interlocutore, o aggiungendone altri o modificando le loro connessioni con le conclusioni o le premesse, effettuando di fatto un *cambio di codice*  
 
@@ -137,9 +137,7 @@ Fungono da
 - Costituiscono il *complesso cognitivo*, diverso dal *sistema cognitivo*
 - Determinano la ribaltabilità e quindi la contestabilità dei discorsi
 
-**Esperimento degli studenti**  
-
-**Prima versione**  
+**Esperimento degli studenti** - **Prima versione**   
 
 - Attaccano l'antecedente  
     - Negandone la verità
@@ -182,7 +180,7 @@ Un'altra caratteristica dei discorsi vacui è la **trasferibilità dell'argoment
 La forma congiuntiva, ovvero il legame tra parti del discorso (e, ma, anche se, perché, ecc.) modifica la percezione del discorso  
 
 Ciò è dimostrato dalla percentuale di risposte positive alla domanda *"Vorresti avere un amico fedele* **anche se** *invadente?"*  
-Facendo variare la forma congiuntiva con *e* o *ma* si ottengono percentuali significativamente diverse  
+Facendo variare la forma congiuntiva con /e o /ma si ottengono percentuali significativamente diverse  
 
 **Esperimento**  
 Per studiare la forma congiuntiva sono stati utilizzati due testi (vela e lago)  
@@ -369,7 +367,7 @@ Le implicature sono essenziali in ogni teoria che voglia spiegare le espressioni
 <a name="Psicolinguistica"></a>  
 # Psicolinguistica  
 
-Nasce dagli studi di **Wundt**, lo studia fisiologicamente e cognitivamente, e ne conviene che va studiato **cognitivamente**  
+Nasce dagli studi di **Wundt**, studia il linguaggio fisiologicamente e cognitivamente, e ne conviene che va studiato **cognitivamente**  
 
 **Buhler** teorizza un modello funzionale, che comprende *espressione, evocazione e rappresentazione*, tesi ad esprimere i processi interni di chi parla e a rievocarli nell'ascoltatore.  
 La funzione rappresentativa permette di connettere simboli a oggetti reali  
@@ -378,13 +376,14 @@ Da **Watson** in poi, vengono studiate solo le risposte comportamentali, ovvero 
 
 La **linguistica contemporanea** è caratterizzata da 3 stadi  
 
-1. Precognitivo: fiducia nella metodologia della linguistica dello strutturalismo, della teoria dell'informazione e dell'apprensimento  
+1. Precognitivo: fiducia nella metodologia della linguistica dello strutturalismo, della teoria dell'informazione e dell'apprendimento  
 
 2. Chomskiano: tentativo di costruire modelli basati sulla grammatica generativo-trasformazionale di Chomsky (problemi sintattici)  
 
 3. Semantico-Pragmatico, modelli psicolinguisti più autonomi  
 
-I **settori di indagine**  
+
+**I settori di indagine**  
 
 - Comprensione
 - Produzione
@@ -409,16 +408,15 @@ Focus su *comprensione*
 <a name="GrammaticaChomsky"></a>  
 ### Grammatica Generativo-Trasformazionale  
 
-1. ***Processi Markoviani***
+1. ***Processi Markoviani***  
 Grammatica come meccanismo che genera tutte le sequenze grammaticali della lingua e nessuna non della lingua, e a partire da un numero finito di regole e da un vocabolario finito produce infinite nuove frasi.  
 Le frasi sono costruite aggiungendo una parola alla volta in base alle probabilità  
 
 2. Struttura sintagmatica  
-Grammatica definita attraverso  
-
-- vocabolario
-- simboli
-- regole 
+    Grammatica definita attraverso  
+    1. Vocabolario
+    2. Simboli
+    3. Regole 
 
 Attraverso ciò si derivano delle frasi per sostituzione di vocaboli a simboli (SN, sintagma nominale = Art + N, nella frase "SN + carezza + il + cane" sostituisci "Art + N" a SN e poi "Il Bambino")  
 
@@ -432,6 +430,8 @@ Quindi la grammatica è costituita da:
 - Una componente trasformazionale 
 (GAN bitch)  
 
+E da:  
+
 - Una struttura sintattica superficiale e semantica profonda
 - Una distinzione tra *competenza* (potenza) e *esecuzione* (atto)
 
@@ -442,12 +442,13 @@ Quindi la grammatica è costituita da:
 - Teoria dei tratti distintivi (in fonologia)
 - Percezione categorica (ba -> da, ka -> k)
 
-1. Problemi riguardanti la struttura del *magazzino* delle parole
-2. Problemi riguardanti il collegamento tra fonemi e parole
+Problemi riguardanti: 
+1. Struttura del *magazzino* delle parole
+2. Collegamento tra fonemi e parole
 
-**Possibili esperimenti:**  
+**Esperimenti:**  
 
-- Determinazione della *soglia* temporale di  
+- Determinazione della *soglia* temporale di
     1. Riconoscimento
     2. Denominazione
     3. Decisione lessicale  
@@ -456,12 +457,12 @@ Quindi la grammatica è costituita da:
 
 - Effetto frequenza (disponibilità)
 - Effetto contesto 
-- Superiorità della parola
+- Superiorità della parola (ricerca lettere in parole vs non-parole)
 
 Le spiegazioni teoriche includono il concetto di **attivazione**, **diffusione di attivazione**  
 
 > **Attivazione**, del sistema di conoscenze che costituisce il lessico mentale, che avviene grazie alla presentazione di una parola.  
-Se consideriamo ili lessico mentale come costituito di unità *parole*, il riconoscimento di una parola esterna avviene quando viene sufficientemente attivata una rappresentazione interna.
+Se consideriamo il lessico mentale come costituito di unità *parole*, il riconoscimento di una parola esterna avviene quando viene sufficientemente attivata una rappresentazione interna.
 
 > **Diffusione di attivazione**, significa che se si intende la memoria semantica come costituita da un insieme di unità a 2 livelli (semantico e sintattico), e si pensa che le unità costituiscono nodi connessi in una rete, l'attivazione di uno di questo nodi si *diffonde* a quelli vicini (Molto simile alla **rappresentazione distribuzionale** in NLP)  
 
@@ -563,7 +564,7 @@ Dal fatto che **un** non sia **una**, inferiamo che:
 
 Dal fatto che le pause cadano tra un sintagma e l'altro, inferiamo che:  
 
-1. I sintagmi sono unità programmate e eseguite unitariamente
+3. I sintagmi sono unità programmate e eseguite unitariamente
 
 Anche se secondo alcuni esperimenti pare che l'esecuzione parta prima che il sintagma sia stato completamente programmato  
 
