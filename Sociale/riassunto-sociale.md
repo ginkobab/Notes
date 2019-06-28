@@ -1,3 +1,4 @@
+# FARE LE COSE DEL LIBRO
 ## Fondamenti teorici  
 
 - Livelli di analisi
@@ -18,72 +19,72 @@ Componenti + implicito
 
 ### Pregiudizio latente
 
-- Modello della dissociazione **(Devine 89)**
+1. **Automatico**
+> Modello della dissociazione **(Devine 89)**
 
 
-1. **Indiretto**  
+2. **Indiretto**  
 >   Razzismo simbolico **(McConahay & Hough, 76; Kinder, 81)**  
     Razzismo moderno **(McConahay, 1986)**  
     Pregiudizio sottile **(Pettigrew & Meertens, 1995)**  
 
 
-2. **Ambivalente**
+3. **Ambivalente**
 > Ambivalenza cognitiva/emotiva/intercomponente  **(Conner & Sparks, 2002)**  
 Modello del contenuto degli stereotipi **(Cuddy, Fiske, Glick 2002)**
 
 
-3. **Ambiguo**  
+4. **Ambiguo**  
 > Razzismo riluttante **(Gaertner e Dovidio, 2000)**  
 
 
 - Misure esplicite 
-> Questionari (Esperimento del bogus pipeline **(Segall, 71)**)
+> Questionari (Esperimento del bogus pipeline **(Sigall, 71)**)
 
 
 - Misure implicite  
->Questionari più sottili  
-  Risposte comportamentali non verbali  
+  > Neuroimagining    
+  IAT **(Greenwald, McGhee, Schwartz, 98)**  
+  Priming semantico **(Payne, 2001, Wittenbrink, 97)**  
+  Priming valutativo **(Fazio, 95)**, Affective Misattribution Procedure **(Payne, 2005)**  
   Allocazione risorse  
+  Risposte comportamentali non verbali  
+  Questionari più sottili  
   Bias verbali (Linguistic Intergroup Bias **(Maass, 89)**)  
-  IAT **(Greenwald, 98)**  
-    > Priming semantico **(Payne, 2001, Wittembrink, 97)**  
-    Priming valutativo **(Fazio, 95)**, Affective Misattribution Procedure **(Payne, 2005)**  
-  Neuroimagining    
 
 
 ### Basi Cognitive del pregiudizio 
 
 - Categorizzazione
 - Teoria del prototipo
-- Principio di accentuazione **(Tajfel, Wilkes)**
+- Principio di accentuazione **(Tajfel, Wilkes, 63)**
 - Schemi
 - Stereotipi - **Schemi cognitivi di gruppo**
-    > Inaccuratezza **(Macrae, Stangor, Hewstone, 96; Ryan, Judd, Park, 96)**  
+    > Inaccuratezza ~~(Macrae, Stangor, Hewstone, 96; Ryan, Judd, Park, 96)~~  
     Formazione 
 
 
 - Attivazione **(Fiske, Neuberg, 90)**
-- Modello dell'attivazione degli stereotipi **(*Wittenbrink, Judd, Park, 1997, 2001)**  
-- Profezia che si autoavvera
-    > Minaccia dello stereotipo **(Steele, 2002)**
-
-
-- Autostereotipizzazione
+- Modello dell'attivazione degli stereotipi **(Wittenbrink, Judd, Park, 1997, 2001)**  
+- Effetti
+> Profezia che si autoavvera  
+Minaccia dello stereotipo **(Steele, 2002)**  
+Autostereotipizzazione
 
 ### Basi Motivazionali del pregiudizio
 
 
 - **Teorie sulle differenze individuali**
-> **(Adorno, 50)**  
+> Teoria della personalità autoritaria **(Adorno, 50)**  
 RWA **(Altemeyer, 81)**  
 SDO **(Sidanus, Pratto, 99)**  
 Teoria della frustrazione-aggressività **(Dollar, 39)**  
 
 
 - **Teorie su aspetti socio-ecnonmici**
-> Teoria della deprivazione relativa  
-Egoistica/Fraterna **(Runciman, 66)**  
+> Teoria della deprivazione relativa Egoistica/Fraterna **(Runciman, 66)**  
 Teoria del conflitto realistico **(Sherif, 66)**  
+
 
 - **Teorie su aspetti psico-sociali**  
 > Teoria dell'identità sociale **(Tajfel, 81)** - Risoluzione status inadeguato  
@@ -171,12 +172,12 @@ Social Categorization Theory **(Turner, 87)**
 - Domande Asimmetriche **(Brambilla, 2011)**
 - Predizione delle impressioni **(Brambilla, Sacchi, Rusconi, Cherubini, Yzerbyt, 2012)**
 - Mediazione moralità minaccia **(Brambilla, Sacchi, Rusconi, Cherubini, Yzerbyt, 2012)**
-- 3 studi Ingroup vs Outgroup (Brambilla, Sacchi, Pagliaro, Ellemers, 2013)**
+- 3 studi Ingroup vs Outgroup **(Brambilla, Sacchi, Pagliaro, Ellemers, 2013)**
 - Mirroring **(Brambilla, Sacchi, Menegatti, Moscatelli, 2016)**
 - Face Perception **(Brambilla, Biella, Freeman, 2018)**
 - Impression Updating **(Brambilla, Carraro, Castelli, Sacchi, 2019)**
-- Rifatto con la competenza
-- Rifatto con modello di mediazione?
+> Rifatto con la competenza  
+Rifatto con modello di mediazione?
 
 ## Riduzione del pregiudizio
 
