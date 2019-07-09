@@ -64,7 +64,7 @@ Modello del contenuto degli stereotipi **(Cuddy, Fiske, Glick 2002)**
     Formazione 
 
 
-- Attivazione **(Fiske, Neuberg, 90)**
+- Modello del continuum **(Fiske, Neuberg, 90)**
 - Modello dell'attivazione degli stereotipi **(Wittenbrink, Judd, Park, 1997, 2001)**  
 - Effetti
 > Profezia che si autoavvera  
@@ -117,22 +117,22 @@ Social Categorization Theory **(Turner, 87)**
 
 ### Il volto nella categorizzazione dell'orientamento sessuale
 
-- Studio 1 **(Rule, Ambady, Hallet, 2009)**
-- Ruolo dell'attivazione sessuale **(Ambady, Rule, Rosen, Slepian, 2011)**
-- Familiarità con la comunità omosessuale **(Brambilla, Riva, Rule, 2013)**
-- Pregiudizio/accuratezza **(Rule, Tskhay, Brambilla, Riva, Krendl, 2015)**
-- Stereotipicità del volto **(Freeman, Johnson, Ambady, Rule, 2010)**
-- Umani vs Computer **(Wang, Kolinski)**
-- Conseguenze comportamentali **(Rule, Bjornsdottir, Tskhay, Ambady)**
+- Studio 1 **(Rule, Ambady, 2009)**
+- Ruolo dell'attivazione sessuale **(Ambady, Rule, 2011)**
+- Familiarità con la comunità omosessuale **(Brambilla, Rule, 2013)**
+- Pregiudizio/accuratezza **(Rule, Brambilla, Riva, 2015)**
+- Stereotipicità del volto **(Freeman, Ambady, Rule, 2010)**
+- Umani vs Computer **(Wang, Kolinski, 2018)**
+- Conseguenze comportamentali **(Rule, Ambady, 2016)**
 
 ## Pregiudizio di genere
 
-- Modello di **Eagly e Steffen, 94**
+- Modello di **Eagly e Steffen, 84**
 - Sessismo ambivalente **(Glick, Fiske, 96)**
 - Glass Ceiling
-- Glass Cliff
-- Esperimento dell'azienda **(Haslam, Ryan, 2008; Ryahn, Haslam, Kulich, 2010)**
-- Esperimento dei tratti **(Ryan, Haslam, Hersby, Bongiorno, 2011)**
+- Glass Cliff **(Ryan, Haslam, 2005)**
+- Esperimento dell'azienda **(Haslam, Ryan, 2008; 2010)**
+- Esperimento dei tratti **(Ryan, Haslam, 2011)**
 
 
 ## La Deumanizzazione
@@ -156,15 +156,17 @@ Social Categorization Theory **(Turner, 87)**
 
 ## Calore e Competenza
 
-- Studio sulla formazione delle impressioni **(Asch, 1946)**
-- Impressioni su poli di valenza **(Rosemberg)**
-- Ricordo di eventi passati **(Wojciszke)**
-- Primarietà di calore **(Ybarra, Chan, Park, 2001)**
+- Studio sulla formazione delle impressioni, descrizione passiva **(Asch, 1946)** 
+- Descrizione attiva **(Rosemberg, 1968)**
+- Ricordo di eventi passati **(Wojciszke, 1994)**
+- SCM **(Cuddy, Fiske, Glick, 2002)**
+- Sottocategorie **(Clausell, Fiske, 2005)**
+- Primarietà temporale di calore **(Ybarra, Chan, Park, 2001)**
 - 4 Studi sulla rievocazione **(Abele, Brukmuller, 2011)**
-- Predittività di calore **(Wojciszke, Bazinska, Jaworski)**
-- Status e competizione **(2008)**
-- Status e competizione come predittori **(Caprariello, Cuddy, Fiske, 2009)**
-- Competizione simbolica **(Kervyn, Fiske, 2012?)**
+- Predittività di calore **(Wojciszke, Bazinska, Jaworski, 1998)**
+- Status e competizione studio correlazionale**(Cuddy, Fiske, Glick, 2008)**
+- Status e competizione studio causale **(Caprariello, Cuddy, Fiske, 2009)**
+- Competizione simbolica **(Kervyn, Fiske, Yzerbyt 2015)**
 
 ### La Moralità/Socialità
 
