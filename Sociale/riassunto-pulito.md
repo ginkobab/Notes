@@ -64,7 +64,7 @@ Modello del contenuto degli stereotipi **
     Formazione 
 
 
-- Attivazione **
+- Modello del continuum **
 - Modello dell'attivazione degli stereotipi **  
 - Effetti
 > Profezia che si autoavvera  
@@ -127,10 +127,10 @@ Social Categorization Theory **
 
 ## Pregiudizio di genere
 
-- Modello di **Eagly e Steffen, 94**
+- Modello di **Eagly e Steffen, 84**
 - Sessismo ambivalente **
 - Glass Ceiling
-- Glass Cliff
+- Glass Cliff **
 - Esperimento dell'azienda **
 - Esperimento dei tratti **
 
@@ -156,14 +156,16 @@ Social Categorization Theory **
 
 ## Calore e Competenza
 
-- Studio sulla formazione delle impressioni **
-- Impressioni su poli di valenza **
+- Studio sulla formazione delle impressioni, descrizione passiva ** 
+- Descrizione attiva **
 - Ricordo di eventi passati **
-- Primarietà di calore **
+- SCM **
+- Sottocategorie **
+- Primarietà temporale di calore **
 - 4 Studi sulla rievocazione **
 - Predittività di calore **
-- Status e competizione **
-- Status e competizione come predittori **
+- Status e competizione studio correlazionale**
+- Status e competizione studio causale **
 - Competizione simbolica **
 
 ### La Moralità/Socialità
@@ -202,7 +204,7 @@ Rifatto con modello di mediazione?
 ### Cambiamento stereotipi
 
 - Modello della correzione **
- Modello della common ingroup identity model **
+- Modello della common ingroup identity model **
 - Teoria dell'identità duale
 - Modello della categorizzazione integrata
 - Modello dell'identità sociale complessa
