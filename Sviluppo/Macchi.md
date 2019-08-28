@@ -319,21 +319,75 @@ Fin'ora siamo stati a livello descrittivo, ora si passa all'interpretativo per i
 
 Secondo Piaget, lo sviluppo mentale è **una forma di adattamento all'ambiente**
 
+Infatti gli schemi di azione sono già mezzi di rappresentazione oltre che azioni, e congiungono quindi biologia e psiche.  
+
+L'organismo è attivo e interattivo e trasforma l'ambiente e ne viene trasformato
+
+**Lo strutturalismo costruttivista** sostiene quindi che **le strutture cognitive non sono innate ma si costruiscono attraverso l'attività dell'individuo e la risposta dell'ambiente**  
+
+#### Gli invarianti funzionali
+
+Sono **meccanismi generali determinati biologicamente**
 
 
+1. **L'adattamento** *o accordo del pensiero con le cose*
 
 
+Viene ottenuto attraverso l'interazione di due funzioni complementari, di natura biologica:  
+
+- Assimilazione  
+Si verifica quando l'esperienza viene interpretata attraverso le strutture cognitive
+- Accomodamento  
+Consiste nella modificazione delle strutture cognitive in funzione della realtà 
 
 
+2. **L'organizzazione** *o accordo del pensiero con sé stesso*
+
+Fa in modo che le diverse strutture cognitive siano coerenti tra di loro
 
 
+3. **L'equilibrazione** 
+
+Indica la tendenza dell'organismo a tenere sé stesso in equilibrio con l'ambiente, attivando l'assimilazione o l'accomodamento
+
+È il motore dell'autosviluppo a lungo termine  
 
 
 ### Le risposte alle domande centrali
 
 - Cosa = le strutture cognitive
-- Come = Cambiamenti qualitativi, contemporanei e omogenei nel sistema cognitivo, indipendenti dalla cultura o dall'ambiente, provocati dal **conflitto cognitivo** generato dall'incapacità di spiegare gli eventi esterni 
+- Come = Cambiamenti qualitativi, contemporanei e omogenei nel sistema cognitivo, indipendenti dalla cultura o dall'ambiente, provocati dal **conflitto cognitivo** generato dall'incapacità di spiegare gli eventi esterni, ovvero attraverso gli **invarianti funzionali** 
 - Dominio-generale
+- Epigenetico costruttivista (ruolo più attivo dell'individuo)
+- Discontinuo ma con invarianti funzionali
+
+
+### I limiti dell'approccio costruttivista
+
+Viene criticata l'omogeneità:
+
+- Asincronie nell'emergere delle competenze caratteristiche dei diversi stadi (quantità prima che peso e volume)
+    - Esperimenti criticati perché variavano i compiti
+        - Piaget criticato perché si fidava troppo dei compiti
+            - Esperimenti neopiagetiani
+
+
+- Eterogeneità nelle abilità implicate nei compiti
+
+- Importanza dell'addestramento
+
+Vengono criticati i meccanismi che generano il cambiamento:
+
+- Troppo generali e astratti
+- Ignorato il contesto sociale
+
+### Analogie Piaget - Comportamentismo
+
+- Tabula rasa di conoscenza e strutture cognitive
+- Meccanismi innati di portata generale
+- Architettura dominio-generale
+- Importanza dell'azione e dell'esperienza
+
 
 
 
