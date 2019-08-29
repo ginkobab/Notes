@@ -28,7 +28,81 @@ Cap.  13 I pari – par. 13.1, 13.2
 <a name="Intro"></a>
 # Introduzione
 
+#### Prospettive storiche sull'infanzia
 
+- Peccato originale
+- Tabula rasa
+- Bontà innata
+
+#### Fattori chiave nello sviluppo
+
+- Salute e benessere
+- Parenting
+- Educazione
+- Contesti socio-culturali
+- Genere
+
+#### Processi indagati
+
+- Biologici
+- Cognitivi
+- Socio-emotivi
+
+#### Periodi dello sviluppo
+
+- Prenatale
+- Prima infanzia 0-24 mesi
+- Seconda infanzia 2-5/6 anni
+- Fanciullezza 6-11
+- Adolescenza 11-18/22
+
+### Teorie sullo sviluppo
+
+#### Teorie psicanalitiche
+
+##### Freud
+
+- Focus sul piacere sessuale
+- Maggiore importanza prima infanzia
+
+Fasi di sviluppo:
+
+- Orale 0-1.5
+- Anale 1.5-3
+- Fallica 3-6
+- Di latenza 6-pubertà
+- Genitale pubertà in poi
+
+##### Erickson
+
+- Focus sulla motivazione sociale 
+- Importanza pari in ogni fase
+
+1. Fiducia/diffidenza
+2. Autonomia/vergogna
+3. Iniziativa/colpa
+4. Industriosità/inferiorità
+5. Identità/diffusione di identità
+6. Intimità/isolamento
+7. Generatività/stagnazione
+8. Integrità/Isolamento
+
+#### Teoria etologica
+
+- Importanza prime fasi della vita
+- Fattori biologici determinanti
+
+#### Teoria ecologica
+
+Diversi sistemi ci influenzano contemporaneamente
+
+- Microsistema, scuola, famiglia
+- Mesosistema, relazioni tra microsistemi
+- Esosistema, ambienti esterni che però condizionano (promozione della madre)
+- Macrosistema, cultura
+- Cronosistema, circostanze storiche e sociali, (momento del divorzio)
+
+Fasi critiche 
 
 
 <a name="Metodi"></a>
