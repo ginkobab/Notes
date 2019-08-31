@@ -106,12 +106,6 @@ Fasi critiche
 
 
 <a name="Metodi"></a>
-# Lo studio scientifico dello sviluppo infantile
-
-
-
-
-<a name="Embrio"></a>
 # Dagli inizi biologici alla nascita 
 
 #### La psicologia evoluzionistica dello sviluppo
@@ -276,6 +270,91 @@ Inizialmente linguaggio e pensiero sono independenti
 
 <a name="Linguaggio"></a>
 # Lo sviluppo del linguaggio
+
+**Caratteristiche del linguaggio**
+
+- Semanticità
+- Arbitrarietà
+- Convenzionalità
+- Generatività
+
+#### Fonologia
+
+Studia i *fonemi*, le più piccole unità che influenzano il significato  
+Contiene regole fonotattiche (combinazioni possibili)
+
+#### Morfologia
+
+Studia i *morfemi*, le più piccole unità dotate di significato  
+
+La morfologia legata comprende l'uso di particelle attaccate alle parole (topo/i)  
+La morfologia libera riguarda gli aggettivi e altre particelle slegate
+
+
+#### Sviluppo del linguaggio
+
+1. Piangere
+2. Tubare (uu guu cuu)
+3. Babbling o lallazione (ba ba ba la la la)
+
+**Vocalizzazioni**
+
+- Inizialmente legate a pianto (suoni prepianto)
+- Si slegano e il bambino ci gioca (vocalizzazioni non di pianto)
+
+
+- Tra 2 e 3 mesi
+    - imitazioni vocaliche
+
+- Tra 4 e 6 mesi
+    - Babbling
+
+- Tra 7 e 10 mesi
+    - lallazione canonica (pa, bababa)
+
+- Tra 10 e 12 mesi
+    - Lallazione variata (bama, dadu)
+
+
+Bambini sordi figli di genitori sordi mostrano espressioni e balbettii simili nella lingua dei segni
+
+**Gestualità**
+
+- Tra 8 e 10 mesi
+    Comparsa dei primi gesti
+
+I gesti comunicativi sono caratterizzati da:
+
+- Intenzionalità 
+- Convenzionalità
+- Sono rivolti all'esterno
+
+- Tra 9 e 12 mesi
+    - Gesti performativi o deittici
+        - Intenzionali
+        - Rivolti all'esterno
+
+- **Pointing**
+    - Presente da due mesi
+    - Manca nei bambini autistici
+    - Richiestivo
+        - Da 9-11 mesi
+    - Dichiarativo
+        - Tra 12 e 18 mesi
+        - Precursore della teoria della mente (anche se lo fanno anche con oggetti inanimati)
+
+- **Attenzione condivisa**
+    - Da 6 mesi
+
+- **Riconoscimento dei suoni**
+    - A 6 mesi riconoscono quasi ogni fonema
+    - A 12 mesi sono specializzati nella propria lingua
+
+        
+        
+    
+
+
 
 
 
