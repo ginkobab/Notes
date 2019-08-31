@@ -392,4 +392,191 @@ Vengono criticati i meccanismi che generano il cambiamento:
 
 
 <a name="HIP"></a>
-# La Teoria dell'Elaborazione dell'Informazione 
+# La Teoria dell'Elaborazione dell'Informazione e il Cognitivismo
+
+- Sono entrambi **approcci funzionali**
+
+- HIP Broadbent '58
+- Cognitivismo Neisser '67
+
+Prendono spunto da *teoria delle comunicazioni*, *AI*, *teorie della computazione* e *linguistica*  
+Queste discipline studiano il modo in cui **l'informazione transita in un sistema**  
+
+- Teoria delle comunicazioni  
+    Nozione di **canale** e **magazzino**, metafora del sistema cognitivo, concetto di **limite**, e quindi **filtro**
+- Teoria delle computazioni  
+    Modelli di manipolazione dell'informazione a partire da pochi meccanismi
+- Intelligenza artificiale  
+    Paragone computer - mente
+- Linguistica Chomskiana
+    Linguaggio come insieme di regole astratte inferite e adattate a strutture innate
+
+#### Gli assunti teorici di base
+
+1. Memoria come Hardware, Processi cognitivi come Software
+2. Descrizione dei processi cognitivi attraverso **analisi funzionale** dei processi elementari alla base di catene di operazioni
+3. Studio delle rappresentazioni relative a diversi compiti attraverso **analisi del compito**
+4. La capacità limitata della mente impone la necessità di **processi di controllo**, che pianifichino e monitorino 
+5. I processi possono essere automatici (bottom-up) o volontari (top-down)
+
+La struttura del sistema è pensata **gerarchicamente** con al 
+
+- vertice l'esecutivo centrale, o processore centrale o sistema attenzionale supervisore  
+- Le metacomponenti 
+- Le componenti esecutive 
+
+Molto realistica neurologicamente, i processi competono e inibendosi a vicenda, l'attenzione porta attivazione supplementare
+
+**La spiegazione è puramente funzionale** ignorando la struttura
+
+**L'obiettivo della ricerca** è di specificare i processi attraverso i quali l'informazione viene manipolata (selezione, elaborazione, immagazzinamento e recupero)
+
+**I processi sono descritti come insiemi di computazioni**
+
+**Il sistema cognitivo** è inteso come **organizzazione funzionale della mente**
+
+**Lo sviluppo è inteso come abilità nel creare rappresentazioni sempre più complesse** attraverso **un incremento nell'efficienza delle strategie**
+
+I magazzini ipotizzati sono
+
+- Registri sensoriali
+- MBT (loop articolatorio, tacchuino visuospaziale e esecutivo centrale + buffer episodico [rappresentazioni intermodali])
+- MLT (memoria episodica, semantica, dichiarativa o esplicita [attiva dal primo anno] e procedurale o implicita [attiva dalla nascita, permette il condizionamento])
+
+caratterizzati da capienza e durata limitata, non si sa se dipendenti dall'età  
+
+
+#### Le metodologie di indagine
+
+- Isolare le operazioni mentali elementari attraverso la registrazione dei **tempi di reazione** (metodo della cronometria mentale e sottrattivo)
+
+Diversi tipi di tempi di reazione  
+
+A. tempi semplici (compiti di detezione semplice)  
+B. tempi di scelta (compiti di discriminazione)  
+C. go-no-go (numerosi stimoli e una sola risposta giusta)  
+
+Diverse operazioni utilizzate
+
+- Nessuna (tipo A)
+- Selezione della risposta (tipo B)
+- Discriminazione (tipo C)
+
+Quindi compito di tipo C - A = tempo necessario per la **discriminazione**
+
+- Vengono anche misurati i numeri di errori e utilizzati per **inferire le regole utilizzate** in stile (se.. allora)
+- Viene utilizzato il computer per **verificare i modelli** -> regole necessariamente esplicite
+
+
+#### Il confronto con Piaget
+
+- HIP viene utilizzato da neopiagettiani per approfondire 
+- L'analisi del compito **non porta a inferire la struttura** ma le funzioni
+- I compiti dimostrano l'utilizzo di abilità **distinte**, non di strutture mentali  
+    Ad esempio l'inferenza transitiva che per Piaget richiedeva la struttura logica dello stadio operatorio concreto, senza identificare le funzioni, viene dimostrato che richieda risorse attentive e mnestiche, oltre che conoscenze logiche (infatti bambini più piccoli allenati a trattenere in memoria le relazioni riescono a risolvere problemi transitivi)
+- Siegler esperimento dei pesi (4 regole, regola 3 critica, curva a U)
+
+
+####  Cosa si modifica 
+
+- Risposta complessa 
+
+
+- Aumento capacità elaborazione e memoria
+- Cambiamento delle rappresentazioni
+- Incremento conoscenza di base
+- Cambiamento delle strategie di codifica e recupero
+- Sviluppo metacognizione
+
+**L'aumento della capacità di elaborazione**  
+
+- Maturazione neurologica
+- Coordinazione operazioni
+- Aumento memoria di lavoro x diminuzione spazio richiesto
+- Aumento automaticità ed efficienza x abitudine e mielinizzazione
+
+**Il cambiamento del formato rappresentazionale**
+
+Diversi codici rappresentazionali
+
+- Codice esecutivo, *mediato dall'azione* (schema d'azione piagettiano) (conoscenza procedurale implicita)
+- Rappresentazione iconica, *immagini mentali*
+- Codice simbolico, *mediato dal linguaggio*
+
+**L'incremento della conoscenza di base**
+
+Le prime rappresentazioni sono gli **script**, che vengono poi **assimilati** a rappresentazioni concettuali e successivamente categoriali  
+
+In questo modo si generano ***expertise***, che influenzano due componenti
+
+- La struttura della conoscenza
+- I processi e le strategie 
+
+Inoltre
+
+- Liberano risorse attentive che possono essere utilizzate per monitorare e trovare strategie
+- Permettono di trattare contemporaneamente più concetti perché usano meno memoria di lavoro
+
+**La modificazione delle strategie**  
+
+Diverse strategie
+
+- Strategie analitiche/globali
+
+Importanza della metacognizione nella memoria
+
+- A 3 anni strategie semplici inconsapevoli
+- A 6 anni possono essere insegnate strategie ma vengono perse **se manca un feedback**
+- A 7 anni strategie consapevoli (ripetizione)
+
+**Lo sviluppo della metacognizione**
+
+È l'insieme delle conoscenze dichiarative e fattuali che il soggetto possiede sulle proprie abilità cognitive e sul controllo che ne è in grado di esercitare  
+
+- La conoscenza cognitiva può riguardare le persone, il compito e le strategie
+
+Persone:
+
+- Limiti della memoria (i bambini sovrastimano la capacità della memoria)
+- Importanza comprensione su memoria (anche gli studenti uni sovrastimano l'importanza della memoria)
+
+Compito:
+
+- Caratteristiche specifiche
+- I bambini considerano compiti facili da comprendere come compiti facili da ricordare (lista lunga parole comuni)
+
+Strategie:
+
+- Solo dopo i 7/8 anni i bambini riconoscono che strategie mnestiche non aiutano la comprensione
+
+Metacognizione per il controllo esecutivo:
+
+- Il controllo esecutivo si sviluppa **in parallelo ma indipendentemente** dalla metacognizione
+- Probabilmente legato al lobo frontale
+- Studiato con compiti di interferenza  
+    Due compiti presentati simultaneamente, da 3 anni i bambini applicano sequenze di risposta corrette, e cresce la velocità con l'età, mentre da 9/10 possono utilizzare il feedback per migliorare attivamente
+
+#### Sviluppo come automodificazione
+
+Esistono meccanismi di autoregolazione
+
+- Feedback negativo (stile equilibrazione piagettiana)
+
+#### Sviluppo come processo continuo
+
+- Sviluppo per modificazioni **quantitative**
+- Un unico stadio sempre più efficiente
+- Incremento nelle rappresentazioni e nell'efficienza
+- Distinzione prestazione e competenza
+
+Esperimento dell'abituazione (correla con con età)
+
+#### Sviluppo come processo dominio-specifico  
+
+- collezione di elaboratori cognitivi specializzati funzionalmente
+
+#### Ruolo dei fattori biologici / esperienziali
+
+- Processi cognitivi presenti alla nascita (come comp e piaget)
+- Funzioni rappresentative innate (~comp e piaget)
+

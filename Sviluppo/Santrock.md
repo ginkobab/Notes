@@ -4,12 +4,12 @@
 Cap.  2  Lo studio scientifico dello sviluppo infantile  
 Cap.  3  Dagli inizi biologici alla nascita – escluse pagg. 80-86  
 Cap.  4  Sviluppo fisico, motorio e percettivo – par. 4.1, 4.2, 4.4, 4.5  
-Cap.  5  Approcci allo sviluppo cognitivo – paragrafi 5.2, 5.3  
-Cap.  8  Lo sviluppo del linguaggio  
-Cap.  9  Lo sviluppo emotivo e affettivo – esclusi par. 9.5.4, 9.5.5, 9.5.6  
-Cap.  10 Il Sé e l’acquisizione dell’identità – par. 10.1, 10.2  
-Cap.  11 Lo sviluppo morale – par. 11.1, 11.2  
-Cap.  13 I pari – par. 13.1, 13.2  
+Cap.  5  Approcci allo sviluppo cognitivo – paragrafi 5.2, 5.3  11p
+Cap.  8  Lo sviluppo del linguaggio  37p
+Cap.  9  Lo sviluppo emotivo e affettivo – esclusi par. 9.5.4, 9.5.5, 9.5.6 41p  
+Cap.  10 Il Sé e l’acquisizione dell’identità – par. 10.1, 10.2  12p
+Cap.  11 Lo sviluppo morale – par. 11.1, 11.2  20p
+Cap.  13 I pari – par. 13.1, 13.2  16p
 
 # Indice
 
@@ -114,18 +114,163 @@ Fasi critiche
 <a name="Embrio"></a>
 # Dagli inizi biologici alla nascita 
 
+#### La psicologia evoluzionistica dello sviluppo
+
+- Una prolungata gioventù è effetto della necessità di sviluppare un **cervello grande** e di apprendere le complesse **dinamiche sociali**
+- Sostiene teorie dominio-specifiche
+- Alcuni meccanismi evolutivi non sono più adattivi alla società contemporanea
+
+**Critiche**
+
+- Teoria unidirezionale, più probabilmente è bidirezionale (ambiente modifica geni, che modificano ambiente)
+
+#### La genetica comportamentale
+
+- Studi attraverso i gemelli (controversi e non scientifici)
+
+**Sandra Scarr** descrive interazioni fattori ereditari/ambientali
+
+- Correlazioni passive
+- Correlazioni attive
+- Correlazioni evocative
+
+**Plomin** afferma che le esperienze condivise non correlano con la personalità dei bambini
+
+#### La prospettiva epigenetica
+
+- Scambi bidirezionali geni x ambiente
+- Relazione probabilistica anziché deterministica
+
+#### Sviluppo prenatale
+
+- Periodo germinale:
+    - 0-2 settimane
+    - Zigote
+    - Blastocisti -> embrione
+    - Trofoblasto -> placenta
+        - Annidamento: attaccamento dello zigote alla parete uterina
+
+- Periodo embrionale:
+    - 2-8 settimane
+    - Embrione
+    - endo/meso/ectoderma 
+    - amnio, cordone e placenta
+    - organogenesi
+
+- Periodo fetale:
+    - 2-7 mesi
+    - feto
+    - riflessi: *grasping*
+
+**Sviluppo cerebreale**
+
+- 100 miliardi di neuroni alla nascita
+- difetti:
+    - anencefalia
+    - spina bifida
+
+**Parto**
+
+- Indice di Apgar
+- Scala NBAS testano riflessi tra cui **rooting**
+- Scala NNNS
+
+Rischi:
+
+- Sottopeso
+- Prematuro
+- Piccolo 
 
 
 
 <a name="Fisico"></a>
 # Sviluppo fisico, motorio e percettivo
 
+#### I riflessi
 
+- Rooting, *il volto si gira in risposta al contatto cercando cibo*
+- Suzione 
+- di Moro
+- Grasping
 
+#### Sviluppo percettivo
+
+**Teoria ecologica di Gibson**
+
+- Affordance
 
 <a name="Cognitivo"></a>
 # Approcci allo sviluppo cognitivo 
 
+#### Applicazioni della teoria di Piaget
+
+1. Assumere un approccio costruttivista  
+    I bambini hanno bisogno di essere attivi
+
+2. Facilitare e domandare anziché insegnare
+
+3. Considerare lo stadio del bambino
+
+4. Valutare in modi alternativi
+
+5. Non cercare di forzare o accelerare
+
+6. Utilizzare elementi realistici
+
+**Contributi di Piaget**
+
+- Metodo clinico-critico
+- Esperimenti
+
+**Critiche a Piaggio**
+
+- Stime delle competenze, *molte abilità emergono prima di quanto piaget pensasse*
+- Stadi, decalgé, dominio-specificità, *diverse abilità emergono asincronicamente*
+- Effetti del training
+- Cultura e educazione
+- Funzionalismo e socio-cognitivismo 
+
+#### Vygotski
+
+- Costruzione attiva della conoscenza
+- Enfasi sulle connessioni sociali
+- Evoluzione attraverso acquisizione di strutture a complessità crescente
+- Funzioni biologiche = funzioni psichiche inferiori
+- Linguaggio = funzioni psichiche superiori
+
+**Sviluppo del linguaggio**
+
+Inizialmente linguaggio e pensiero sono independenti
+
+1. Segni esteriori (contare con le dita)
+2. Sviluppo del linguaggio egocentrico come mediatore del pensiero
+3. Linguaggio interiore
+
+**La zona di sviluppo prossimale**
+
+- Scaffolding, aiuto flessibile, dialogo
+
+**Strategie di insegnamento**
+
+1. Valutazione della zona di sviluppo prossimale
+2. Supporto mirato alla ZPD
+3. Interazione tra compagni di diverse età
+4. Incoraggiamento all'uso del linguaggio interiore
+5. Utilizzo di contesti significativi
+6. Discussione di gruppo
+
+**Vygotskij vs Piaget**
+
+- Contesto sociale
+- Lingaggio
+
+
+**Critiche**
+
+- Età dei cambiamenti non specificate
+- Ambito socio-emotivo ignorato
+- Hype sul linguaggio nell'apprendimento
+- Insegnanti potrebbero essere oppressivi o far impigrire i bambini
 
 
 
