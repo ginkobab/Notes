@@ -1,4 +1,4 @@
-Freud descrive alcune caratteristiche di funzionamento dei ~~processi primari~~:  
+Freud descrive alcune caratteristiche di funzionamento dei **processi primari**:  
 
 - Spostamento
 - Condensazione
@@ -11,10 +11,10 @@ Il principio di realtà si sviluppo grazie al principio dell'io.
 
 **La seconda topica** - **Io, Es, Super-io**  
 
-__Es__ è completamente inconscio, significa in tedesco "esso", non è riconosciuto come proprio (non è parte dell'Io)  
+**Es** è completamente inconscio, significa in tedesco "esso", non è riconosciuto come proprio (non è parte dell'Io)  
 è dove vengono relegate le pulsioni, avvicinabile solo attraverso analogie, si occupa del soddisfacimento dei piaceri, e possiamo immagginarlo destrutturato e inferirlo attraverso gli effetti sull'Io
 
-__Io__ si sviluppa separandosi dall'Es per effetto del principio di realtà. Lo strato più esterno dell'Io è a contatto con il mondo esterno. **Anche l'Io ha una parte inconscia** (infatti i meccanismi di difesa come rimozione e sublimazione sono inconsci). Per Freud infatti la maggior parte della psiche è inconscia.  
+**Io** si sviluppa separandosi dall'Es per effetto del principio di realtà. Lo strato più esterno dell'Io è a contatto con il mondo esterno. **Anche l'Io ha una parte inconscia** (infatti i meccanismi di difesa come rimozione e sublimazione sono inconsci). Per Freud infatti la maggior parte della psiche è inconscia.  
 L'io dovrà poi mediare tra Es e Super-Io.  
 Nella parte cosciente dell'Io opera il principio di realtà.  
 Una delle funzioni dell'Io è la registrazione dell'*angoscia segnale*, ovvero un segno di invasione della coscienza da parte dei contenuti inconsci, e fare sì che si attivino i meccanismi di difesa.  
@@ -22,7 +22,7 @@ L'Io è concepito coordinato nella parte cosciente, mentre nella parte incoscien
 È descritto come quella parte dell'Es modificata dal mondo esterno, il paladino della Ragione.  
 L'Io media tra Es, Super-io e esigenze della realtà, si dice che abbia infatti 3 padroni. È il polo difensivo della mente.  
 
-__Super-Io__ si forma nella risoluzione del conflitto Edipico, grazie all'identificazione con le caratteristiche parentali e si manifesta con vergogna, senso di colpa e senso di inferiorità.  
+**Super-Io** si forma nella risoluzione del conflitto Edipico, grazie all'identificazione con le caratteristiche parentali e si manifesta con vergogna, senso di colpa e senso di inferiorità.  
 Un Super-io arcaico è patologico, mentre uno psicopatico ha un Super-io sottosviluppato.  
 È un'istanza vigilante che punisce l"io con vergogna, colpa e senso di inferiorità. Nasce con dei meccanismi di difesa, l'identificazione e l'introiezione **del Super-Io** del genitore.  
 
