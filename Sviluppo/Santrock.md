@@ -917,6 +917,42 @@ Relazioni negative predicono abuso di sostanze e depressione
 - Aumentano le interazioni
 - Reciprocità fondamentale: 6 anni
 
+**Influenza genitoriale**
+
+- Il comportamento con i figli influenza la loro condotta tra i pari attraverso
+    - Imitazioni
+    - MOI
+    - Ambienti
+
+**Cognizione sociale ed emozione**
+
+- Perspective taking
+- Capacità di elaborazione delle informazioni sociali
+- Elaborazione delle emozioni
+
+**Status sociometrico**
+
+- Bambini popolari
+- medi
+- trascurati
+- rifiutati
+- controversi
+
+**Aggressività e rifiuto**
+
+Prepotenze dirette/indirette
+
+#### Gioco
+
+- Senso-motorio
+- D'esercizio
+- Simbolico
+- Sociale
+- Costruttivo
+- Strutturato
+
+ 
+
 
 
 
