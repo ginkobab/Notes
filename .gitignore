@@ -1,2 +1,9 @@
 todo.md
+Analisi
 metadata.yaml
+**/**/*.aux
+**/**/*.fdb_latexmk
+**/**/*.fls
+**/**/*.log
+**/**/*.gz
+**/**/*.tox
