@@ -1,7 +1,9 @@
 todo.md
 Analisi
 metadata.yaml
+Sync
 **/**/*.aux
+**/**/*.pdf
 **/**/*.fdb_latexmk
 **/**/*.fls
 **/**/*.log
