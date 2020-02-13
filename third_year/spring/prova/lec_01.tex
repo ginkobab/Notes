@@ -1,2 +1,40 @@
+\documentclass{article}
 \date{12 Gennaio 2019}
+\usepackage{graphicx}
 
+\usepackage{import}
+\usepackage{pdfpages}
+\usepackage{transparent}
+\usepackage{xcolor}
+
+\newcommand{\incfig}[2][1]{%
+    \def\svgwidth{#1\columnwidth}
+    \import{./figures/}{#2.pdf_tex}
+}
+
+\pdfsuppresswarningpagegroup=1
+
+
+\begin{document}
+bro
+\begin{figure}[ht]
+    \centering
+    \incfig{ozio}
+    \caption{ozio}
+    \label{fig:ozio}
+\end{figure}
+ok
+oh
+\begin{figure}[ht]
+    \centering
+    \incfig{famostafigura}
+    \caption{famostafigura}
+    \label{fig:famostafigura}
+\end{figure}
+\begin{figure}[ht]
+    \centering
+    \incfig{orcodio}
+    \caption{orcodio}
+    \label{fig:orcodio}
+\end{figure}
+\end{document}
