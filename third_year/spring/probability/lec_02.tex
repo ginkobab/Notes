@@ -1,0 +1,35 @@
+\lecture{2}{Sun 26 Apr 2020 09:48}{Assiomi}
+
+\section{Assiomi}
+
+\paragraph{Lo spazio probabilistico} è una terna $(\omega, \mathcal{B}, \mathbb{P})$ dove:
+\begin{itemize}
+	\item $\omega$, un insieme non vuoto, rappresenta l'insieme di tutti i possibili risultati dell'esperimento considerato, detto \textbf{spazio campionario} 
+	\item $\mathcal{B}$ rappresenta la famiglia di tutti gli eventi di interesse ed è una $\sigma$-algebra, ovvero un insieme di sottoinsiemi $\mathcal{B} \subseteq \mathcal{P}(\omega)$ che possiamo probabilizzare e che prendono il nome di \textbf{eventi} e soddisfa tre proprietà:
+		\begin{itemize}
+			\item $\omega \in \mathcal{B}$ ovvero $\omega$ è un evento
+			\item $\forall \mathnormal{A} \in \mathcal{B}, \bar{\mathnormal{A}} \in \mathcal{B}$ ovvero per ogni evento, il complementare è ancora un evento
+				\item $\forall{\mathnormal{A_n} \subseteq \mathcal{B}, \cup_n \mathnormal{A}_n \in \mathcal{B}}$
+		\end{itemize}
+
+	\item $\mathbb{P}$ è la misura di probabilità, una funzione $\mathpp{P} : \mathcal{B} \rightarrow \mathbb{R}$ (a valori reali) che code di tre proprietà, dette assiomi di Kolmogorov:
+		\begin{itemize}
+			\item Deve valere
+				\begin{equation}
+					\mathbb{P}(\omega) = 1
+				\end{equation}
+
+			\item Ogni volta che si misura un elemento del dominio si ottiene sempre un numero reale non negativo:
+				\begin{equation}
+					\forall\mathnormal{A} \in \mathnormal{B}, \mathcal{P}(\mathnormal{A}) \geq 0
+
+				\end{equation}
+
+			\item Sia ${\mathnormal{A_n} \subseteq \mathcal{B}$ una sottofamiglia discreta e disgiunta, cioè tale che $\forall i,j$ con $i \ne j$ si ha che $\mathnorm{A_i} \bigcap \mathnorm{A_j} = \emptyset$. Allora
+				\begin{equation}
+						\mathbb{P}(\bigcup_n \mathnorm{A_n}) = \sum_n\mathbb{P}(\mathnorm{A_n})
+				\end{equation}
+		\end{itemize}
+\end{itemize}
+
+
